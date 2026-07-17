@@ -1,24 +1,24 @@
 ---
-title: Never Make Decisions When Angry
+title: Nunca tomes decisiones cuando estés enfadado
 pubDate: '2016-01-19'
 author: jin
 draft: false
 categories:
-  - Work
+- Trabajo
 tags:
-  - Decisions Made in Anger
+- Decisiones tomadas con ira
 ---
 
-The period before the New Year is peak season for liquor sales, and every packaging supplier's production schedule is stretched to the limit. Yesterday, one supplier delayed a batch of bottle labels that should have been delivered to us by one day. My boss tore into me over the phone, warning that if the distributor refused the goods, I'd be held jointly liable and would have to compensate the company out of my own pocket. This wasn't the first time he'd said something like this. At the end of 2014, he unilaterally changed the 400-number on a batch of distributor-customized products to the company's number. The distributor didn't notice the change during text review and approved printing. When the goods were delivered, the distributor was furious. My boss called me and demanded I pay for it. Fortunately, to guard against sleazy behavior, I'd been recording all my calls for the entire year and regularly backing them up to Dropbox. Hearing the baseless accusation, I told him not to judge me so rashly — let me check the archives first. An hour later, I sent both him and the distributor a phone recording and message log from when the distributor confirmed the production, which completely shut them up. After that incident, I gained a clear understanding of our boss's character: he's the kind of selfish person who, when things get urgent, doesn't bother figuring out what happened, washes his hands of his own responsibility, and dumps everything on someone else.
+El período previo al Año Nuevo es temporada alta para la venta de licores, y el calendario de producción de todos los proveedores de envases está al límite. Ayer, uno de ellos retrasó un lote de etiquetas para botellas que debía habernos entregado un día. Mi jefe me llamó y me echó una bronca por teléfono, advirtiéndome que si el distribuidor rechazaba la mercancía, yo sería responsable solidario y tendría que compensar a la empresa de mi propio bolsillo. No era la primera vez que decía algo así. A finales de 2014, cambió unilateralmente el número 400 de un lote de productos personalizados para un distribuidor por el número de la empresa. El distribuidor no notó el cambio durante la revisión del texto y aprobó la impresión. Cuando la mercancía llegó, el distribuidor se enfureció. Mi jefe me llamó y me exigió que pagara. Por suerte, para protegerme de comportamientos deshonestos, había estado grabando todas mis llamadas durante todo el año y haciendo copias de seguridad periódicas en Dropbox. Al oír la acusación infundada, le dije que no me juzgara tan a la ligera, que dejara que revisara los archivos primero. Una hora después, le envié a él y al distribuidor una grabación de la llamada y el registro de mensajes del momento en que el distribuidor confirmó la producción, lo que los dejó completamente callados. Después de ese incidente, me hice una idea clara del carácter de mi jefe: es el tipo de persona egoísta que, cuando las cosas se ponen urgentes, no se molesta en averiguar qué pasó, se lava las manos de su propia responsabilidad y lo echa todo sobre los demás.
 
-But I didn't quit. First, I needed to earn his money. Second, I didn't believe that simply leaving one place would lead to paradise — every place has its own frustrations.
+Pero no renuncié. Primero, necesitaba ganar su dinero. Segundo, no creía que simplemente irme de un lugar me llevara al paraíso; en todas partes hay sus propias frustraciones.
 
-So when I received a phone call with the exact same tone yesterday, ten thousand curse words ran through my mind. But I said nothing. Perhaps I was too angry to speak — I just hung up after he finished his tirade. Afterward, just like last time, I pulled up the production contract for the customer's custom products. The contract clearly stated: "Goods must be shipped within 35 days after the advance payment is received, otherwise Party B shall compensate Party A 3% of the total payment amount per day." Even with the one-day delay, we were still well within 23 days — no breach of contract whatsoever. If they pushed me, I could delay shipment until after the New Year and still not be in violation!
+Así que cuando recibí una llamada telefónica con exactamente el mismo tono ayer, diez mil maldiciones cruzaron mi mente. Pero no dije nada. Quizás estaba demasiado enfadado para hablar; simplemente colgué cuando terminó su perorata. Después, igual que la última vez, revisé el contrato de producción de los productos personalizados del cliente. El contrato decía claramente: "La mercancía debe enviarse dentro de los 35 días posteriores a la recepción del pago por adelantado; de lo contrario, la Parte B compensará a la Parte A con el 3% del monto total del pago por día". Incluso con el retraso de un día, todavía estábamos dentro de los 23 días, sin incumplimiento de contrato. Si me presionaban, podía retrasar el envío hasta después del Año Nuevo y ¡aun así no estaría en falta!
 
-Right there in the office, in front of my colleagues, I secretly cursed out my boss for not following the contract and falsely reporting shipments to the client. But I still didn't feel satisfied. Talking behind someone's back isn't honorable — I had to confront him directly. So I pulled out my phone, found his number, and called. Today he'd better explain to me, point by point, exactly why I should pay. Worst case, I quit!
+Allí mismo, en la oficina, frente a mis colegas, maldije en secreto a mi jefe por no seguir el contrato y reportar falsamente los envíos al cliente. Pero aún no me sentía satisfecho. Hablar a espaldas de alguien no es honorable; tenía que enfrentarlo directamente. Así que saqué mi teléfono, busqué su número y llamé. Hoy más vale que me explique, punto por punto, exactamente por qué debería pagar. ¡En el peor de los casos, renuncio!
 
-At that moment, Teacher Wei was standing behind me and said slowly: "Why call? You're both still angry..."
+En ese momento, el profesor Wei estaba detrás de mí y dijo lentamente: "¿Por qué llamar? Ambos siguen enfadados..."
 
-Suddenly it felt like someone had pointed out the way through the darkness. I hung up the phone immediately. He was fundamentally a person with that kind of deeply ingrained, gutter-level character and worldview. And I needed my year-end bonus in ten days...
+De repente, sentí que alguien me había señalado el camino en la oscuridad. Colgué el teléfono de inmediato. Él era, fundamentalmente, una persona con ese tipo de carácter y visión del mundo profundamente arraigados, de alcantarilla. Y yo necesitaba mi bono de fin de año en diez días...
 
-So, never make decisions when you're angry. Or, go to 51job.com.
+Así que, nunca tomes decisiones cuando estés enfadado. O, ve a 51job.com.

@@ -1,36 +1,36 @@
 ---
-title: "Why I'm Buying Xiaomi Stock: A Power User's Choice"
+title: 'Por qué compro acciones de Xiaomi: la elección de un usuario avanzado'
 pubDate: '2026-03-17'
 author: jin
 draft: false
 categories:
-  - Finance
+- Finanzas
 tags:
-  - Xiaomi Stock
-  - Xiaomi SU7
-  - Xiaomi Growth
+- Acciones Xiaomi
+- Xiaomi SU7
+- Crecimiento Xiaomi
 ---
 
 ![wj-2.avif](https://user0102.cn.imgto.link/public/20260422/wj-2.avif)
 
-In February 2025, I opened a bank and stock account in Hong Kong and started buying Xiaomi shares. Since then, I've accumulated several thousand shares and plan to gradually add to my position, aiming for 10,000 shares over time.
+En febrero de 2025 abrí una cuenta bancaria y de valores en Hong Kong y empecé a comprar acciones de Xiaomi. Desde entonces, he acumulado varios miles de acciones y planeo ir aumentando mi posición poco a poco, con el objetivo de llegar a 10.000 acciones con el tiempo.
 
-I'm no financial expert — just an ordinary investor. But I want to share why I'm buying Xiaomi stock and the logic behind my investment.
+No soy ningún experto financiero, solo un inversor normal. Pero quiero compartir por qué compro acciones de Xiaomi y la lógica detrás de mi inversión.
 
-Why am I bullish on Xiaomi? First of all, I'm a heavy user of Xiaomi's smart home ecosystem. I have dozens of Xiaomi devices at home — from light bulbs and cameras to air conditioners and robot vacuums — covering nearly every corner of Xiaomi's product ecosystem. Friends who've visited and experienced my setup have gone on to install plenty of Xiaomi devices in their own homes. This gives me a direct, firsthand sense of Xiaomi's product strength.
+¿Por qué soy optimista con Xiaomi? Para empezar, soy un usuario intensivo de su ecosistema de hogar inteligente. Tengo decenas de dispositivos Xiaomi en casa, desde bombillas y cámaras hasta aires acondicionados y aspiradoras robot, cubriendo casi todos los rincones de su ecosistema de productos. Amigos que han visitado mi casa y han visto mi configuración han terminado instalando un montón de dispositivos Xiaomi en sus propios hogares. Esto me da una percepción directa y de primera mano de la fortaleza de los productos de Xiaomi.
 
-More importantly, Xiaomi's automotive division has filled the last gap in Xiaomi's smart ecosystem. Today's Xiaomi has formed a complete ecosystem chain: "phones + cars + smart home." This "people-cars-home" full coverage is something almost no other company in the world can match.
+Más importante aún, su división automotriz ha llenado el último hueco en el ecosistema inteligente de Xiaomi. Hoy, Xiaomi ha formado una cadena ecológica completa: «teléfonos + coches + hogar inteligente». Esta cobertura integral de «personas-coches-hogar» es algo que casi ninguna otra empresa del mundo puede igualar.
 
-Regarding the recent controversy surrounding Xiaomi's cars — many people claim Xiaomi vehicles are prone to accidents. But I think this is a cognitive bias. Car accidents happen every day. Why are you only seeing Xiaomi's? Because Xiaomi generates massive traffic and public discussion.
+En cuanto a la reciente polémica sobre los coches de Xiaomi —mucha gente dice que los vehículos de Xiaomi son propensos a accidentes—, creo que esto es un sesgo cognitivo. Los accidentes de tráfico ocurren a diario. ¿Por qué solo ves los de Xiaomi? Porque Xiaomi genera un tráfico masivo y un debate público enorme.
 
-Objectively speaking, Xiaomi's car buyers skew young, and for many of them, it's their first car. Xiaomi's vehicles deliver supercar-level performance, and putting that kind of power in the hands of young drivers does carry a risk of spirited driving. But across multiple incidents, the actual quality of Xiaomi's vehicles hasn't been lacking.
+Objetivamente, los compradores de coches Xiaomi son jóvenes, y para muchos es su primer coche. Los vehículos de Xiaomi ofrecen prestaciones de superdeportivo, y poner ese poder en manos de conductores jóvenes conlleva cierto riesgo de conducción agresiva. Pero en múltiples incidentes, la calidad real de los vehículos de Xiaomi no ha flaqueado.
 
-Tesla faced similar public attacks in its early days — everyone said Teslas couldn't brake. But smart consumers eventually discovered that Tesla's quality was actually solid, which in turn fueled their sales miracle. Xiaomi will go through the same process.
+Tesla sufrió ataques públicos similares en sus inicios —todo el mundo decía que los Tesla no frenaban—. Pero los consumidores inteligentes descubrieron que la calidad de Tesla era sólida, lo que a su vez impulsó su milagro de ventas. Xiaomi pasará por el mismo proceso.
 
-Xiaomi's risk isn't about products — it's about capital markets' expectations of Lei Jun. Lei Jun isn't like Musk, who paints grand visions first and gradually delivers them. Xiaomi's consistent approach is to build steadily based on market demand. That's a virtue for a real business, but it might not be "sexy" enough for stock prices. Investors need patience.
+El riesgo de Xiaomi no está en sus productos, sino en las expectativas que los mercados de capitales tienen sobre Lei Jun. Lei Jun no es como Musk, que primero pinta grandes visiones y luego las va cumpliendo poco a poco. El enfoque constante de Xiaomi es construir de forma sólida según la demanda del mercado. Eso es una virtud para un negocio real, pero quizá no sea lo suficientemente «sexy» para el precio de las acciones. Los inversores necesitan paciencia.
 
-But I'm confident in Xiaomi's full-industry-chain strategy. If Xiaomi can absorb Kingsoft Cloud and push harder into large AI models, offering AI services to everyday consumers, that would be a massive profit growth driver. The 2027 overseas expansion for cars is also promising, because Xiaomi's reputation abroad is actually better than it is domestically.
+Pero confío en la estrategia de cadena industrial completa de Xiaomi. Si Xiaomi logra absorber Kingsoft Cloud y empujar más fuerte en modelos grandes de IA, ofreciendo servicios de IA a los consumidores de a pie, eso sería un enorme motor de crecimiento de beneficios. La expansión internacional de coches en 2027 también es prometedora, porque la reputación de Xiaomi en el extranjero es, de hecho, mejor que en su país.
 
-My investment horizon is 5 to 10 years. Although my position is currently at a loss on paper, I don't urgently need the money and plan to keep adding to my position.
+Mi horizonte de inversión es de 5 a 10 años. Aunque mi posición está actualmente en pérdidas sobre el papel, no necesito el dinero con urgencia y planeo seguir aumentando mi posición.
 
-Final note: this article is not a stock recommendation — I'm simply sharing my personal investment logic. Investing carries risk. Please do your own due diligence.
+Nota final: este artículo no es una recomendación de compra —simplemente comparto mi lógica de inversión personal. Invertir conlleva riesgos. Por favor, haz tu propia investigación.

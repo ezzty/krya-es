@@ -1,375 +1,375 @@
 ---
-title: "The Origin of 'Buying Books Like a Landslide"
+title: El origen de 'comprar libros como si fueran una avalancha
 pubDate: '2018-06-21'
 author: jin
 draft: false
 categories:
-  - Reading
+- Lectura
 tags: []
 ---
 
-I used voice input to tally up how many books I've bought since college until now — finished the list in under 20 minutes. Although the bookshelf looks densely packed, there are actually fewer than 200 books, not even a grain of sand in the vast ocean of knowledge.
+Usé entrada por voz para hacer un recuento de cuántos libros he comprado desde la universidad hasta ahora — terminé la lista en menos de 20 minutos. Aunque la estantería se ve apretada, en realidad hay menos de 200 libros, ni siquiera un grano de arena en el vasto océano del conocimiento.
 
-I haven't participated much in JD.com's book sale events these past couple of years. I feel there are fewer and fewer books worth reading. Ultimately, the trouble lies in choosing — picking books I like one by one takes a lot of time, so I slowly add them to my cart and only pay when there's a promotion. A colleague asked me why I buy so many books. I said, "They're cheap! Works out to about ten yuan a book. Even if I don't finish reading them, they can be family heirlooms!"
+No he participado mucho en las ofertas de libros de JD.com estos últimos años. Siento que cada vez hay menos libros que valga la pena leer. Al final, el problema está en elegir — seleccionar los libros que me gustan uno por uno lleva mucho tiempo, así que los voy añadiendo al carrito y solo pago cuando hay promoción. Un compañero me preguntó por qué compro tantos libros. Le dije: "¡Son baratos! Salen a unos diez yuanes por libro. Aunque no termine de leerlos, pueden ser reliquias familiares".
 
-My inexplicable love for books stems from a childhood with no books to read — just like how grandparents always treasure food. Whatever you lacked back then, you always want to make up for it frantically now. Before the age of ten, I lived in a remote mountain valley with no information flow, no newspapers, and only CCTV Channel 1 on TV. In that survival state, thirsting for knowledge, I dug out my parents' middle school textbooks from a junk pile — leftovers from the 1970s — and read them all. From their biology book I learned about paramecia, tree ferns, dinosaurs, and the origin of species. From the slightly gruesome human anatomy diagrams, I understood that the human body isn't solid — inside, like a pig, there are heart, liver, spleen, and organs. I guessed humans would die too. The math book made no sense to me, so I tore it up to fold "bo" (square paper blocks you slap on the ground — if your "bo" flips the opponent's "bo," you win theirs). The book was full of strange symbols and had a weird tone. Later, thinking back on that math book, the weird tone turned out to be political slogans. When I truly had nothing left to read, I asked Grandma to borrow the *Children's Encyclopedia Newspaper* from the township primary school teacher. I followed the tutorials in the paper to do science crafts. In an article about the mutual conversion of kinetic and electrical energy, I attached fan blades to an electric motor, put it in a field ditch, and made a hydroelectric generator that lit up a diode. Later I demonstrated the principle of electrical energy conversion to my uncle-in-law with this setup — the grandeur was no less than Galileo explaining heliocentrism. I also tried building airplanes — even though I knew that a water-drop-shaped curved wing generates lift, the foam was too light and my craftsmanship too crude, so they never flew far. Eventually I couldn't borrow the *Children's Encyclopedia Newspaper* anymore, and I couldn't make anything fun. If I'd had a set of *Encyclopædia Britannica* or the complete *Twenty-Four Histories* back then, my youth might have been much more colorful.
+Mi inexplicable amor por los libros viene de una infancia sin libros que leer — igual que los abuelos siempre atesoran la comida. Lo que te faltaba entonces, siempre quieres compensarlo con furia ahora. Antes de los diez años, vivía en un valle remoto de montaña, sin flujo de información, sin periódicos, y solo el Canal 1 de CCTV en la tele. En ese estado de supervivencia, sediento de conocimiento, saqué los libros de texto de secundaria de mis padres de un montón de basura — sobras de los años 70 — y los leí todos. De su libro de biología aprendí sobre los paramecios, los helechos arborescentes, los dinosaurios y el origen de las especies. De los diagramas de anatomía humana, un poco escalofriantes, entendí que el cuerpo humano no es sólido — por dentro, como un cerdo, tiene corazón, hígado, bazo y órganos. Supuse que los humanos también morirían. El libro de matemáticas no tenía sentido para mí, así que lo rompí para doblar "bo" (bloques de papel cuadrados que se golpean en el suelo — si tu "bo" voltea el del oponente, ganas el suyo). El libro estaba lleno de símbolos extraños y tenía un tono raro. Más tarde, al recordar ese libro de matemáticas, el tono raro resultó ser consignas políticas. Cuando ya no me quedaba nada que leer, le pedí a mi abuela que pidiera prestado el *Periódico de la Enciclopedia Infantil* al maestro de la escuela primaria del pueblo. Seguí los tutoriales del periódico para hacer manualidades científicas. En un artículo sobre la conversión mutua de energía cinética y eléctrica, pegué aspas de ventilador a un motor eléctrico, lo puse en una zanja del campo e hice un generador hidroeléctrico que encendió un diodo. Más tarde le demostré el principio de conversión de energía eléctrica a mi tío político con este artilugio — la grandeza no era menor que la de Galileo explicando el heliocentrismo. También intenté construir aviones — aunque sabía que un ala curva en forma de gota genera sustentación, la espuma era demasiado ligera y mi artesanía demasiado tosca, así que nunca volaron lejos. Finalmente, ya no pude pedir prestado el *Periódico de la Enciclopedia Infantil* y no podía hacer nada divertido. Si hubiera tenido un juego de la *Enciclopedia Británica* o los *Veinticuatro Libros de Historia* completos, mi juventud podría haber sido mucho más colorida.
 
-Children these days no longer have that hunger for knowledge I once had. They're interested in games on the screen — not in LED display technology. Back then, armed with a Phillips head screwdriver, if Grandma hadn't stopped me, the TV would have been taken apart long ago.
+Los niños de hoy ya no tienen esa sed de conocimiento que yo tenía. Están interesados en los juegos en la pantalla — no en la tecnología de las pantallas LED. En aquel entonces, armado con un destornillador de estrella, si mi abuela no me hubiera detenido, la tele ya habría sido desarmada hace tiempo.
 
 **\n**
 
-**Below is the list of books I've purchased**
+**A continuación, la lista de libros que he comprado**
 
-**Economics**
+**Economía**
 
-Western Economics
+Economía Occidental
 
-The Snowball
+La Bola de Nieve
 
-The Yale University Economics Course
+El Curso de Economía de la Universidad de Yale
 
-The Wealth of Nations
+La Riqueza de las Naciones
 
-Currency Wars
+Guerra de Divisas
 
-Principles of Economics
+Principios de Economía
 
-**Social Sciences**
+**Ciencias Sociales**
 
-Freedom at the Highest Point
+La Libertad en el Punto Más Alto
 
-The Selfish Gene
+El Gen Egoísta
 
-Games and Society
+Juegos y Sociedad
 
-China in a Village
+China en una Aldea
 
-Rediscovering Society
+Redescubriendo la Sociedad
 
-Class Analysis of Contemporary Chinese Society
+Análisis de Clases de la Sociedad China Contemporánea
 
-A Short History of Chinese Philosophy
+Una Breve Historia de la Filosofía China
 
-Grand Enterprise: The Founding History of the Qing Dynasty
+Gran Empresa: La Historia Fundacional de la Dinastía Qing
 
-Sending a Bullet
+Enviando una Bala
 
-1587, a Year of No Significance
+1587, un Año Sin Importancia
 
-Notes on Politics and Law
+Apuntes sobre Política y Derecho
 
-Democracy Is a Modern Way of Life
+La Democracia es una Forma de Vida Moderna
 
-The Course of Modern China
+El Curso de la China Moderna
 
-Political Gains and Losses in Modern China
+Ganancias y Pérdidas Políticas en la China Moderna
 
-Democracy in America
+La Democracia en América
 
-The Theory of Moral Sentiments
+La Teoría de los Sentimientos Morales
 
-A History of Western Philosophy
+Una Historia de la Filosofía Occidental
 
-The Second Sex
+El Segundo Sexo
 
-The Chrysanthemum and the Sword
+El Crisantemo y la Espada
 
 Homo Deus
 
-From Late Qing to the Republic
+Del Último Qing a la República
 
-A Global History
+Una Historia Global
 
-Guns, Germs, and Steel
+Armas, Gérmenes y Acero
 
-The Crowd
+La Multitud
 
-Amusing Ourselves to Death: The Disappearance of Childhood
+Divirtiéndonos Hasta la Muerte: La Desaparición de la Infancia
 
-Influence
+Influencia
 
-Thirty Turbulent Years (Vol. 1)
+Treinta Años Turbulentos (Vol. 1)
 
-The Water Level of Ideas
+El Nivel del Agua de las Ideas
 
-Hidden Rules
+Reglas Ocultas
 
-**Fiction and Literature**
+**Ficción y Literatura**
 
-The Fountainhead
+El Manantial
 
-Atlas Shrugged
+La Rebelión de Atlas
 
-The Muslim's Funeral
+El Funeral del Musulmán
 
-White Deer Plain
+Llanura del Ciervo Blanco
 
-1988: I Want to Talk to the World
+1988: Quiero Hablar con el Mundo
 
 Hamlet
 
-Othello
+Otelo
 
-King Lear
+El Rey Lear
 
-The Merchant of Venice
+El Mercader de Venecia
 
 Macbeth
 
-The Three-Body Problem
+El Problema de los Tres Cuerpos
 
-All Creatures Great and Small
+Todas las Criaturas Grandes y Pequeñas
 
-Ramayana Bridge
+Puente del Ramayana
 
-City Gate Opens
+La Puerta de la Ciudad se Abre
 
-A Good Day of One Person
+Un Buen Día de una Persona
 
-The Stranger / The Plague
+El Extranjero / La Peste
 
-The Alchemist
+El Alquimista
 
-Buddha on Line One
+Buda en la Línea Uno
 
-If on a Winter's Night a Traveler
+Si una Noche de Invierno un Viajero
 
-The Razor's Edge
+El Filo de la Navaja
 
-Romance of the Three Kingdoms
+Romance de los Tres Reinos
 
-Biography of Su Dongpo
+Biografía de Su Dongpo
 
 Kokoro — Natsume Soseki
 
-The King of Chess, the King of Trees, the King of Children
+El Rey del Ajedrez, el Rey de los Árboles, el Rey de los Niños
 
-Six Lectures on Loneliness
+Seis Conferencias sobre la Soledad
 
-The Storied Life of A.J. Fikry
+La Maravillosa Vida de A.J. Fikry
 
-The Four Books and Five Classics
+Los Cuatro Libros y los Cinco Clásicos
 
-Classic of Mountains and Seas
+Clásico de las Montañas y los Mares
 
-The Night Boat
+El Barco Nocturno
 
-Finest Selections of Ancient Prose
+Las Mejores Selecciones de Prosa Antigua
 
 Zeng Guofan — Tang Haoming
 
-Complete Commentary on Ice Mirror
+Comentario Completo sobre el Espejo de Hielo
 
-A New Account of the Tales of the World
+Una Nueva Cuenta de los Cuentos del Mundo
 
 Zizhi Tongjian
 
-Night Ride
+Paseo Nocturno
 
-Love in the Revolutionary Era
+Amor en la Era Revolucionaria
 
-My Spiritual Home
+Mi Hogar Espiritual
 
-The Silver Age
+La Edad de Plata
 
-The Golden Age
+La Edad de Oro
 
-Dreams of Splendor of the Eastern Capital
+Sueños de Esplendor de la Capital del Este
 
-Little Window Reminiscences
+Reminiscencias de la Ventanita
 
-The Catcher in the Rye
+El Guardián entre el Centeno
 
-Love in the Early Summer Lotus Period
+Amor en el Período del Loto de Principios de Verano
 
-Lord of the Flies
+El Señor de las Moscas
 
-Dream Reminiscences of Tao'an / Seeking West Lake
+Reminiscencias de Sueños de Tao'an / Buscando el Lago del Oeste
 
-The Myth of Sisyphus
+El Mito de Sísifo
 
-No Longer Human
+Indigno de Ser Humano
 
-Three Hundred Tang Poems
+Trescientos Poemas Tang
 
-Odd Rocks
+Rocas Extrañas
 
-River Town
+Ciudad Río
 
-Notes from the Yuewei Hermitage
+Notas del Hermitage de Yuewei
 
 Central Park West
 
-A Little Journey in the Airport
+Un Pequeño Viaje en el Aeropuerto
 
-The Ideal Afternoon
+La Tarde Ideal
 
-First Love, Last Rites
+Primer Amor, Últimos Ritos
 
-Watching You Go
+Mirándote Ir
 
-Tokyo One Year
+Tokio Un Año
 
-Six Records of a Floating Life
+Seis Registros de una Vida Flotante
 
-Song of Everlasting Sorrow
+Canción de la Pena Eterna
 
-Walking Alone at Ease
+Caminando Solo a Gusto
 
-The Interpretation of Dreams
+La Interpretación de los Sueños
 
-Works of Bei Dao
+Obras de Bei Dao
 
-Despair — Nabokov
+Desesperación — Nabokov
 
-Sketches from a Chinese Studio
+Cuentos de la Cámara de los Fantasmas
 
-A One-Man Pilgrimage
+Una Peregrinación en Solitario
 
-The Design of Everyday Things
+El Diseño de las Cosas Cotidianas
 
-The Beauty of Mathematics
+La Belleza de las Matemáticas
 
-Where Is My Homeland
+¿Dónde Está Mi Patria?
 
-The Novels of Xue Tao
+Las Novelas de Xue Tao
 
-Master Zhu's Family Instructions
+Instrucciones Familiares del Maestro Zhu
 
-40 Studies That Changed Psychology
+40 Estudios que Cambiaron la Psicología
 
-Immortality
+Inmortalidad
 
-Four Happy Worries About the Nation
+Cuatro Alegres Preocupaciones por la Nación
 
-Rich Dad Poor Dad
+Padre Rico, Padre Pobre
 
-What the Master Would Not Discuss
+Lo que el Maestro No Discutiría
 
-A Pale View of Hills
+Una Vista Pálida de las Colinas
 
 Siddhartha
 
-A Book of Rainy Days
+Un Libro de Días Lluviosos
 
-The Fall of Giants
+La Caída de los Gigantes
 
-Without a Fixed Address
+Sin Dirección Fija
 
-Cakes and Ale
+Pasteles y Cerveza
 
-Of Human Bondage
+De la Esclavitud Humana
 
-Reading Is a Portable Sanctuary
+Leer es un Santuario Portátil
 
-The Moon and Sixpence
+La Luna y Seis Peniques
 
-Dubliners
+Dublineses
 
-The Black Book
+El Libro Negro
 
-The 13 Buddhist Sutras
+Los 13 Sutras Budistas
 
-My Heart Has Only Seven Sorrows
+Mi Corazón Solo Tiene Siete Penas
 
-The Snows of Kilimanjaro
+Las Nieves del Kilimanjaro
 
-We Three
+Nosotros Tres
 
-The Long Goodbye
+El Largo Adiós
 
-Murder on the Orient Express
+Asesinato en el Expreso de Oriente
 
-Zen and the Art of Motorcycle Maintenance
+Zen y el Arte del Mantenimiento de Motocicletas
 
-The Sound and the Fury
+El Ruido y la Furia
 
-Meditations
+Meditaciones
 
-Strategies of the Warring States
+Estrategias de los Reinos Combatientes
 
-Self-Control Techniques
+Técnicas de Autocontrol
 
-The Unconsoled
+El Inconsolable
 
-Xu Sanguan Sells His Blood
+Xu Sanguan Vende su Sangre
 
-Blindness
+Ceguera
 
-Killing Commendatore
+Matando a Comendatore
 
-The Gadfly
+El Tábano
 
-Plants and Trees of the Human World
+Plantas y Árboles del Mundo Humano
 
-A Year of Living Alone
+Un Año Viviendo Solo
 
-One Person's Village
+La Aldea de una Persona
 
-The Devotion of Suspect X
+La Devoción del Sospechoso X
 
-Journey Under the Midnight Sun
+Viaje Bajo el Sol de Medianoche
 
 Toki
 
-Principles
+Principios
 
-Lost Horizon
+Horizonte Perdido
 
-I Am a Cat
+Soy un Gato
 
-The Buried Giant
+El Gigante Enterrado
 
-Dream of the Red Chamber
+Sueño del Pabellón Rojo
 
-I and the Temple of Earth
+Yo y el Templo de la Tierra
 
-Great Short Stories
+Grandes Cuentos Cortos
 
-A Cultural Odyssey
+Una Odisea Cultural
 
-Dune
+Duna
 
-To the Lighthouse
+Al Faro
 
-Zhuangzi with Annotations
+Zhuangzi con Anotaciones
 
-One Hundred Years of Solitude
+Cien Años de Soledad
 
-Love in the Time of Cholera
+El Amor en los Tiempos del Cólera
 
 Lolita
 
-Hard-Boiled Wonderland and the End of the World
+Tierra de Maravillas Hard-Boiled y el Fin del Mundo
 
-Finding China
+Encontrando China
 
-Decisive Moments in History
+Momentos Decisivos en la Historia
 
-You Can Never Wake Someone Who's Pretending to Sleep
+Nunca Puedes Despertar a Alguien que Finge Dormir
 
-**Language**
+**Idioma**
 
-Standard Japanese
+Japonés Estándar
 
-English Speaking Red Book
+El Libro Rojo de Hablar Inglés
 
-This English Grammar Book Is All You Need
+Este Libro de Gramática Inglesa es Todo lo que Necesitas
 
-**Programming**
+**Programación**
 
-Introduction to Algorithms
+Introducción a los Algoritmos
 
-The DOM Scripting Art
+El Arte del Scripting DOM
 
-JavaScript: Advanced Programming
+JavaScript: Programación Avanzada
 
-C Programming
+Programación en C
 
-Beginning Python
+Python para Principiantes
 
 Python Cookbook
 
-Learn PHP in 21 Days
+Aprende PHP en 21 Días
 
-Brother Bird's Linux Private Kitchen
+La Cocina Privada de Linux del Hermano Pájaro

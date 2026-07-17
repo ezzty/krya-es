@@ -1,65 +1,65 @@
 ---
-title: Cooking Oil Selection Guide
+title: Guía para elegir aceite de cocina
 pubDate: '2024-11-24'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Mineral Oil in Cooking Oil
-  - Cooking Oil Pollution
+- Aceite mineral en aceite de cocina
+- Contaminación del aceite de cocina
 ---
 
 ![ddaaf.jpg|87](https://i.190808.xyz/typecho/2024/11/24/ddaaf.jpg)
 
-When choosing a healthy cooking oil, the main factors to consider are: **aflatoxins**, **erucic acid**, **whether it's genetically modified**, **unsaturated fatty acids**, and **cooking temperature**. Recently, prompted by the news about industrial oil tanker trucks being used to transport edible oil, we also need to consider the potential risk of **mineral oil contamination**. Beyond these six health factors, we also need to consider whether the **price** is reasonable.
+A la hora de elegir un aceite de cocina saludable, los factores principales a considerar son: **aflatoxinas**, **ácido erúcico**, **si es transgénico**, **ácidos grasos insaturados** y **temperatura de cocción**. Recientemente, a raíz de la noticia sobre camiones cisterna industriales utilizados para transportar aceite comestible, también debemos tener en cuenta el posible riesgo de **contaminación por aceite mineral**. Más allá de estos seis factores de salud, también hay que considerar si el **precio** es razonable.
 
-**1. Aflatoxins**
+**1. Aflatoxinas**
 
-As is well known, aflatoxin is a potent carcinogen with extremely high toxicity, particularly harmful to the liver. Long-term exposure to even trace amounts of aflatoxin can increase the risk of liver cancer. Aspergillus flavus and Aspergillus parasiticus are widespread in soil, plants, and decaying organic matter, and they grow and reproduce more easily in warm, humid environments. Common oilseed crops can become contaminated with aflatoxin during production, harvesting, processing, and storage if humidity and temperature are not properly controlled. Oilseed crops with higher aflatoxin content include peanuts, soybeans, and rapeseed. In traditional oil pressing methods, contamination can come not only from the raw materials themselves but also from unclean oil presses. Although temperatures above 250°C can break down aflatoxins, Chinese kitchens rarely reach this temperature even during high-heat stir-frying.
+Como es bien sabido, la aflatoxina es un carcinógeno potente con una toxicidad extremadamente alta, especialmente dañina para el hígado. La exposición prolongada incluso a trazas de aflatoxina puede aumentar el riesgo de cáncer de hígado. El *Aspergillus flavus* y el *Aspergillus parasiticus* están muy extendidos en el suelo, las plantas y la materia orgánica en descomposición, y crecen y se reproducen con mayor facilidad en ambientes cálidos y húmedos. Los cultivos oleaginosos comunes pueden contaminarse con aflatoxina durante la producción, cosecha, procesamiento y almacenamiento si la humedad y la temperatura no se controlan adecuadamente. Los cultivos oleaginosos con mayor contenido de aflatoxina incluyen el maní, la soja y la colza. En los métodos tradicionales de prensado de aceite, la contaminación puede provenir no solo de las materias primas, sino también de prensas de aceite sucias. Aunque las temperaturas superiores a 250 °C pueden descomponer las aflatoxinas, en las cocinas chinas rara vez se alcanza esta temperatura, incluso al saltear a fuego alto.
 
-**2. Erucic Acid**
+**2. Ácido erúcico**
 
-Erucic acid is a monounsaturated fatty acid. **Rapeseed oil has a relatively high erucic acid content.** It is metabolized slowly in the human body, and long-term intake of high levels of erucic acid may have adverse health effects. High erucic acid intake can lead to fat deposits in the heart muscle, affecting cardiac function. Additionally, some animal studies suggest that excessive erucic acid intake may affect growth and development. This is why healthy rapeseed oils nowadays like to advertise low erucic acid content. However, as with any toxin, the dose matters; even at low levels, long-term consumption isn't scientifically advisable.
+El ácido erúcico es un ácido graso monoinsaturado. **El aceite de colza tiene un contenido relativamente alto de ácido erúcico.** Se metaboliza lentamente en el cuerpo humano y la ingesta prolongada de niveles altos de ácido erúcico puede tener efectos adversos para la salud. Una ingesta elevada de ácido erúcico puede provocar depósitos de grasa en el músculo cardíaco, afectando la función cardíaca. Además, algunos estudios en animales sugieren que la ingesta excesiva de ácido erúcico puede afectar el crecimiento y desarrollo. Por eso, los aceites de colza saludables de hoy en día suelen anunciar su bajo contenido en ácido erúcico. Sin embargo, como con cualquier toxina, la dosis importa; incluso en niveles bajos, el consumo a largo plazo no es científicamente aconsejable.
 
-**3. Genetically Modified or Not**
+**3. Transgénico o no**
 
-Genetically modified foods have been around for a relatively short time—the world's first commercialized GM food was only born in the United States in 1994. In just 30 years, GM foods have achieved enormous economic and environmental benefits. For example, genetically modified soybeans have improved pest resistance and herbicide tolerance, increasing yields while reducing pesticide use, with positive effects overall. However, GM technology has existed for such a short time that its long-term safety remains a highly debated topic. Whether to eat them or not is a personal choice. That said, when dining out, we inevitably come into contact with GM foods to some degree. But when it comes to choosing cooking oil for your own home, you can still make that decision yourself—labels clearly indicate whether an oil is made from genetically modified ingredients.
+Los alimentos transgénicos existen desde hace relativamente poco tiempo: el primer alimento transgénico comercializado del mundo nació en Estados Unidos en 1994. En solo 30 años, los alimentos transgénicos han logrado enormes beneficios económicos y ambientales. Por ejemplo, la soja transgénica ha mejorado la resistencia a plagas y la tolerancia a herbicidas, aumentando los rendimientos y reduciendo el uso de pesticidas, con efectos positivos en general. Sin embargo, la tecnología transgénica existe desde hace tan poco tiempo que su seguridad a largo plazo sigue siendo un tema muy debatido. Comerlos o no es una elección personal. Dicho esto, al comer fuera, inevitablemente entramos en contacto con alimentos transgénicos hasta cierto punto. Pero cuando se trata de elegir aceite de cocina para tu hogar, aún puedes tomar esa decisión tú mismo: las etiquetas indican claramente si un aceite está hecho con ingredientes transgénicos.
 
-**4. Unsaturated Fatty Acids**
+**4. Ácidos grasos insaturados**
 
-Unsaturated fatty acids are a class of fatty acid molecules whose carbon chains contain one or more carbon-carbon double bonds (C=C). Unsaturated fatty acids are generally liquid at room temperature and offer many health benefits, including **lowering bad cholesterol** levels, **reducing the risk of cardiovascular disease**, helping **reduce inflammation in the body** (some research suggests that human aging is essentially a process of repeated inflammatory responses), and being **beneficial for brain development** (children especially should eat them). The opposite of unsaturated fatty acids is saturated fatty acids; the animal fats we commonly consume in large quantities contain very high levels of saturated fatty acids, and it's advisable to eat less of them.
+Los ácidos grasos insaturados son una clase de moléculas de ácidos grasos cuyas cadenas de carbono contienen uno o más dobles enlaces carbono-carbono (C=C). Los ácidos grasos insaturados generalmente son líquidos a temperatura ambiente y ofrecen muchos beneficios para la salud, como **reducir el colesterol malo**, **disminuir el riesgo de enfermedades cardiovasculares**, ayudar a **reducir la inflamación en el cuerpo** (algunas investigaciones sugieren que el envejecimiento humano es esencialmente un proceso de respuestas inflamatorias repetidas) y ser **beneficiosos para el desarrollo cerebral** (los niños, especialmente, deberían consumirlos). Lo opuesto a los ácidos grasos insaturados son los ácidos grasos saturados; las grasas animales que consumimos comúnmente en grandes cantidades contienen niveles muy altos de ácidos grasos saturados, y es aconsejable consumirlas con moderación.
 
-**5. Cooking Temperature**
+**5. Temperatura de cocción**
 
-When certain cooking oils are heated to high temperatures, they can produce harmful substances. These include acrylamide, free radicals, and polycyclic aromatic hydrocarbons, which may be harmful to health.
-Common **oils that break down easily at high temperatures**: sunflower oil, soybean oil, corn oil, grape seed oil. It's recommended to lower the cooking temperature when using these oils.
-**Oils that are more stable at high temperatures**: peanut oil, rapeseed oil, olive oil, coconut oil.
+Cuando ciertos aceites de cocina se calientan a altas temperaturas, pueden producir sustancias nocivas. Estas incluyen acrilamida, radicales libres e hidrocarburos aromáticos policíclicos, que pueden ser perjudiciales para la salud.
+**Aceites comunes que se descomponen fácilmente a altas temperaturas**: aceite de girasol, aceite de soja, aceite de maíz, aceite de pepita de uva. Se recomienda bajar la temperatura de cocción al usar estos aceites.
+**Aceites más estables a altas temperaturas**: aceite de maní, aceite de colza, aceite de oliva, aceite de coco.
 
-**6. External Contamination of Cooking Oil**
+**6. Contaminación externa del aceite de cocina**
 
-Transportation via oil tanker trucks can contaminate cooking oil. So why do some manufacturers source oil externally? It generally comes down to a few scenarios:
+El transporte en camiones cisterna puede contaminar el aceite de cocina. Entonces, ¿por qué algunos fabricantes obtienen aceite externamente? Generalmente se debe a algunos escenarios:
 
-- Small brands lack sufficient production capacity. Some small factories can't meet demand on their own and purchase oil in bulk to bottle under their own brand.
-- Large brands with multiple plants transport oil between facilities to balance production capacity.
-- Bulk purchasing channels. Companies or oil vendors with large oil requirements purchase in bulk.
-These scenarios essentially cover all the channels through which we buy cooking oil. Oil manufacturers won't voluntarily admit to mineral oil contamination, so ordinary consumers have no way to avoid eating contaminated oil. But if you can't fight it, you can at least avoid it.
+- Las marcas pequeñas carecen de suficiente capacidad de producción. Algunas fábricas pequeñas no pueden satisfacer la demanda por sí mismas y compran aceite a granel para embotellarlo con su propia marca.
+- Las grandes marcas con múltiples plantas transportan aceite entre instalaciones para equilibrar la capacidad de producción.
+- Canales de compra a granel. Empresas o vendedores de aceite con grandes necesidades de aceite compran a granel.
+Estos escenarios cubren esencialmente todos los canales a través de los cuales compramos aceite de cocina. Los fabricantes de aceite no admitirán voluntariamente la contaminación por aceite mineral, por lo que los consumidores comunes no tienen forma de evitar comer aceite contaminado. Pero si no puedes combatirlo, al menos puedes evitarlo.
 
-**7. Price**
+**7. Precio**
 
-Here's a price comparison for 1L of oil, based on JD.com data:
+Aquí hay una comparación de precios para 1L de aceite, basada en datos de JD.com:
 
-**Perilla oil, camellia oil, olive oil > grape seed oil > peanut oil, flaxseed oil, linseed oil, coconut oil > sunflower oil > soybean oil, rapeseed oil, corn oil**
+**Aceite de perilla, aceite de camelia, aceite de oliva > aceite de pepita de uva > aceite de maní, aceite de linaza, aceite de lino, aceite de coco > aceite de girasol > aceite de soja, aceite de colza, aceite de maíz**
 
-Perilla oil, camellia oil, and olive oil are relatively expensive, with 1L generally priced above 80 RMB;
-Grape seed oil is about 40 RMB per liter;
-Peanut oil, flaxseed oil, linseed oil, and coconut oil are around 20–30 RMB per liter;
-Soybean oil, rapeseed oil, corn oil, and sunflower oil are about 8–16 RMB per liter.
+El aceite de perilla, el aceite de camelia y el aceite de oliva son relativamente caros, con 1L generalmente por encima de 80 RMB;
+El aceite de pepita de uva cuesta unos 40 RMB por litro;
+El aceite de maní, aceite de linaza, aceite de lino y aceite de coco rondan los 20–30 RMB por litro;
+El aceite de soja, aceite de colza, aceite de maíz y aceite de girasol cuestan entre 8 y 16 RMB por litro.
 
-Based on these seven factors, let's use a scientific approach to select cooking oils that are both healthy and relatively safe:
+Basándonos en estos siete factores, usemos un enfoque científico para seleccionar aceites de cocina que sean saludables y relativamente seguros:
 
-According to data from China Forward Industry Research Institute, the main cooking oil varieties consumed in China are soybean oil, rapeseed oil, palm oil (mainly used in industrial foods and fast food restaurants), peanut oil, and sunflower oil. In 2022, soybean oil consumption accounted for 29.6% of China's edible vegetable oil consumption; followed by rapeseed oil at 14.5%; and palm oil at 8.8% of total consumption.
+Según datos del Instituto de Investigación de la Industria Avanzada de China, las principales variedades de aceite de cocina consumidas en China son aceite de soja, aceite de colza, aceite de palma (utilizado principalmente en alimentos industriales y restaurantes de comida rápida), aceite de maní y aceite de girasol. En 2022, el consumo de aceite de soja representó el 29,6% del consumo de aceite vegetal comestible en China; seguido por el aceite de colza con un 14,5%; y el aceite de palma con un 8,8% del consumo total.
 
-The higher the sales volume of an oil, the more manufacturers and sales channels it has, making it more susceptible to transportation contamination—and the oil exposed in this news was precisely soybean oil. So let's exclude soybean oil and rapeseed oil; and due to aflatoxin, erucic acid, and GMO concerns, we again exclude rapeseed oil and soybean oil; corn oil and peanut oil are also ruled out. Oils priced above 30 RMB per liter are too costly for regular consumption; otherwise grape seed oil and olive oil would be the best choices—heat-resistant, rich in unsaturated fatty acids, and non-GMO. That leaves **sunflower oil and flaxseed oil as excellent options**; both crops are essentially non-GMO; sunflower oil is rich in unsaturated fatty acids and vitamin E; flaxseed is rich in alpha-linolenic acid, a plant-based Omega-3 fatty acid that helps reduce inflammation, support heart health, and brain function.
+Cuanto mayor es el volumen de ventas de un aceite, más fabricantes y canales de venta tiene, lo que lo hace más susceptible a la contaminación durante el transporte—y el aceite expuesto en esta noticia era precisamente aceite de soja. Así que excluyamos el aceite de soja y el aceite de colza; y debido a las preocupaciones sobre aflatoxinas, ácido erúcico y transgénicos, excluimos nuevamente el aceite de colza y el de soja; el aceite de maíz y el de maní también quedan descartados. Los aceites con un precio superior a 30 RMB por litro son demasiado costosos para el consumo regular; de lo contrario, el aceite de pepita de uva y el aceite de oliva serían las mejores opciones: resistentes al calor, ricos en ácidos grasos insaturados y no transgénicos. Esto deja **el aceite de girasol y el aceite de linaza como excelentes opciones**; ambos cultivos son esencialmente no transgénicos; el aceite de girasol es rico en ácidos grasos insaturados y vitamina E; la linaza es rica en ácido alfa-linolénico, un ácido graso Omega-3 de origen vegetal que ayuda a reducir la inflamación, apoyar la salud cardíaca y la función cerebral.
 
-The author's personal favorite used to be sunflower oil. Ukraine is the world's largest sunflower seed producer; after the Russia-Ukraine war, the most repurchased Ukrainian imported sunflower oil was no longer available. Combined with the recent tanker truck mineral oil contamination incident, perhaps lesser-known cooking oils are the safest bet, such as **flaxseed oil**.
+Mi favorito personal solía ser el aceite de girasol. Ucrania es el mayor productor mundial de semillas de girasol; después de la guerra entre Rusia y Ucrania, el aceite de girasol importado ucraniano que más se compraba ya no está disponible. Combinado con el reciente incidente de contaminación por aceite mineral en camiones cisterna, quizás los aceites de cocina menos conocidos sean la opción más segura, como el **aceite de linaza**.

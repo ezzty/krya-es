@@ -1,30 +1,30 @@
 ---
-title: How to Register a Stripe Personal Account
+title: Cómo Registrar una Cuenta Personal de Stripe
 pubDate: '2025-10-29'
 author: jin
 draft: false
 categories:
-  - Finance
+- Finanzas
 tags:
-  - Stripe HK
-  - Stripe Payment Registration
-  - Stripe Payments
+- Stripe HK
+- Registro de Pagos Stripe
+- Pagos Stripe
 ---
 
 ![homepage.avif](https://user0102.cn.imgto.link/public/20260422/homepage.avif)
 
-If you're building apps for overseas markets, tool websites, or subscription services and need to collect payments globally, we used to rely on PayPal, Wise, WorldFirst, and the like. But these days, the simplest and most versatile option for multi-scenario use is probably Stripe. Founded in the US, this integrated payment platform serves developers and merchants worldwide, accepting international credit cards like Visa and Mastercard, as well as Apple Pay. It offers transparent withdrawal fees, supports both API integration and payment links. While you can't register from mainland China, having a Hong Kong bank account makes it straightforward. I personally tested registering an Individual account using a mainland Chinese passport and a ZA Bank (Hong Kong) card — it went smoothly.
+Si estás desarrollando aplicaciones para mercados internacionales, sitios web de herramientas o servicios por suscripción y necesitas cobrar pagos a nivel global, antes solíamos recurrir a PayPal, Wise, WorldFirst y similares. Pero hoy en día, la opción más sencilla y versátil para múltiples escenarios es probablemente Stripe. Fundada en Estados Unidos, esta plataforma de pagos integrada atiende a desarrolladores y comerciantes de todo el mundo, aceptando tarjetas de crédito internacionales como Visa y Mastercard, además de Apple Pay. Ofrece comisiones de retiro transparentes y admite tanto integración por API como enlaces de pago. Aunque no se puede registrar desde China continental, tener una cuenta bancaria en Hong Kong lo hace muy sencillo. Yo mismo probé registrar una cuenta Individual usando un pasaporte chino continental y una tarjeta de ZA Bank (Hong Kong) — todo funcionó sin problemas.
 
-Here's a quick walkthrough:
+Aquí te comparto un paso a paso rápido:
 
-Access the site through a Hong Kong proxy: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
-Select "Hong Kong SAR, China" as the registration region
-Choose "Individual" as the business type
-Fill in your basic info honestly; use Gmail or Outlook for email — avoid domestic providers
-List "Consulting" as your industry; enter a phone number where you can receive SMS
-For the website, put a personal blog
-For bank account, enter your ZA Bank details
+Accede al sitio a través de un proxy de Hong Kong: [https://dashboard.stripe.com/register](https://dashboard.stripe.com/register)
+Selecciona "Hong Kong SAR, China" como región de registro
+Elige "Individual" como tipo de negocio
+Completa tus datos básicos con honestidad; usa Gmail o Outlook para el correo — evita proveedores locales
+Indica "Consultoría" como tu industria; ingresa un número de teléfono donde puedas recibir SMS
+Para el sitio web, pon un blog personal
+Para la cuenta bancaria, ingresa los datos de tu ZA Bank
 
-After registration, go to Settings → Business. The system will prompt you for identity verification — upload the first page of your passport, and approval comes through quickly.
+Después del registro, ve a Configuración → Negocio. El sistema te pedirá verificación de identidad — sube la primera página de tu pasaporte, y la aprobación llega rápido.
 
-Then generate a payment link, pay yourself 10 yuan as a test, and the payment goes through!
+Luego genera un enlace de pago, págate 10 yuanes como prueba, ¡y el pago se procesa!

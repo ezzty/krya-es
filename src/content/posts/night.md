@@ -1,16 +1,16 @@
 ---
-title: Night
+title: Noche
 pubDate: '2016-08-24'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Sketching
+- Dibujo
 ---
 
-It was a night at the end of summer, after watching two episodes of the TV adaptation of *The Girl Who Leapt Through Time*. I leaned against the windowsill, stepped out onto the balcony, and let the breeze hit me.
+Era una noche a finales del verano, después de ver dos episodios de la adaptación televisiva de *La chica que saltaba a través del tiempo*. Me apoyé en el alféizar, salí al balcón y dejé que la brisa me golpeara.
 
-A gentle wind swept through the neighborhood garden, carrying away the stifling air. The banyan trees swayed their slender branches comfortably, casting blurry shadows on the ground. Nameless creatures in the corners sang their uneven songs, rising and falling in waves. The air conditioning units on the walls around the garden hummed restlessly — "buzz, buzz, buzz..." — telling stories of summer. Occasionally, lightning flickered across the dusky sky from the other side of the city.
+Un viento suave recorría el jardín del vecindario, llevándose el aire sofocante. Los banianos mecían sus ramas esbeltas con comodidad, proyectando sombras borrosas en el suelo. Criaturas sin nombre en los rincones cantaban sus canciones desiguales, subiendo y bajando en oleadas. Las unidades de aire acondicionado en las paredes alrededor del jardín zumbaban inquietas — "zumbido, zumbido, zumbido..." — contando historias de verano. De vez en cuando, un relámpago destellaba en el cielo oscuro desde el otro lado de la ciudad.
 
-I thought that in this moment, in this scene, I might glimpse a trace of zen. But with not a single human voice to be heard, it was just fucking quiet!
+Pensé que en este momento, en esta escena, podría vislumbrar un atisbo de zen. Pero sin una sola voz humana que escuchar, ¡estaba jodidamente en silencio!

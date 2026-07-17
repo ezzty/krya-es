@@ -1,50 +1,50 @@
 ---
-title: That Poor Kid Still Lives in Your Stomach
+title: Ese niño pobre todavía vive en tu estómago
 pubDate: '2026-04-01'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Poor Kid
+- Niño pobre
 ---
 
 ![ms-1.avif](https://user0102.cn.imgto.link/public/20260422/ms-1.avif)
 
-**01. The Dietary Underpinnings That Wealth Can't Mask**
+**01. Los cimientos alimenticios que la riqueza no puede ocultar**
 
-I used to think that people nearing financial independence would be particularly refined about their eating habits. Even if they weren't dining on abalone and lobster every meal, they would at least leave behind the crude indulgence of high carbs and heavy oil and salt.
+Solía pensar que las personas cerca de la independencia financiera serían especialmente refinadas con su alimentación. Aunque no comieran abulón y langosta a diario, al menos dejarían atrás el exceso burdo de carbohidratos, aceite y sal.
 
-But then I discovered that some very wealthy individuals remain wildly obsessed with heavy-flavored fats and carbs. This is very likely a hangover from growing up poor: in those days of scarcity, filling your stomach was synonymous with happiness.
+Pero entonces descubrí que algunas personas muy ricas siguen obsesionadas con las grasas y los carbohidratos de sabores intensos. Esto es muy probablemente una resaca de haber crecido pobre: en aquellos días de escasez, llenar el estómago era sinónimo de felicidad.
 
-**02. The Childhood Trauma Ruled by Congee**
+**02. El trauma infantil gobernado por las gachas**
 
-I grew up in the countryside with my grandparents. My three daily meals as a child were basically congee, noodles, and rice.
+Crecí en el campo con mis abuelos. Mis tres comidas diarias de niño eran básicamente gachas, fideos y arroz.
 
-Breakfast was always congee — especially sweet potato congee, which left an indelible mark of childhood trauma. Thin, watery broth paired with pickled cowpeas — it made me gag! I wished every meal could be plain white rice — not for any reason other than that there'd always be meat to go with it.
+El desayuno siempre eran gachas — especialmente gachas de boniato, que dejaron una marca indeleble de trauma infantil. Un caldo aguado y fino con judías encurtidas — ¡me daban arcadas! Deseaba que cada comida fuera arroz blanco solo — no por ninguna otra razón más que porque siempre habría carne para acompañarlo.
 
-I remember eating chili fried pork on a summer noon. I ran full speed under the scorching sun to the vegetable patch, grabbed a handful of crooked green chilies, and sprinted back. As a kid, I couldn't handle spice — those chilies felt a hundred times hotter back then. But I didn't care. I dug through the chili pile, found the thickest, glistening piece of pork, shoved it in my mouth, and frantically shoveled rice. Veins bulging, snot running, sweat pouring.
+Recuerdo comer cerdo salteado con chile un mediodía de verano. Corría a toda velocidad bajo el sol abrasador hasta el huerto, cogía un puñado de chiles verdes torcidos y volvía corriendo. De niño, no soportaba el picante — aquellos chiles me parecían cien veces más fuertes entonces. Pero no me importaba. Hurgaba entre el montón de chiles, encontraba el trozo de cerdo más grueso y brillante, me lo metía en la boca y engullía arroz frenéticamente. Con las venas hinchadas, los mocos corriendo, el sudor cayendo a chorros.
 
-That was the pinnacle of enjoyment in a life of deprivation. It felt absolutely incredible!
+Esa era la cima del disfrute en una vida de privaciones. ¡Se sentía increíblemente bien!
 
-**03. The "Compensation Psychology" in a Carbohydrate Paradise**
+**03. La "psicología compensatoria" en un paraíso de carbohidratos**
 
-Unfortunately, those happiness-overloaded moments were not the norm. Fantasizing about eating white rice every day was a luxury. But as long as it wasn't congee, even eating noodles twice a day was fine. A few vegetable leaves in the noodles, seasoned with salt, soy sauce, chili oil, and scallions — this kind of heavy-flavored stimulation was enough to mask the blandness of life. There were better noodle dishes too: my grandmother sometimes made dough drop soup, dumplings, steamed buns, and cured-meat pies. But these were less frequent — no refrigerator, no running to the store anytime you wanted. Everything had to be made from scratch, which took time and effort.
+Desafortunadamente, esos momentos sobrecargados de felicidad no eran la norma. Fantasear con comer arroz blanco todos los días era un lujo. Pero con tal de que no fueran gachas, hasta comer fideos dos veces al día estaba bien. Unas hojas de verdura en los fideos, sazonados con sal, salsa de soja, aceite de chile y cebolleta — este tipo de estimulación de sabores intensos bastaba para enmascarar la monotonía de la vida. También había platos de fideos mejores: mi abuela a veces hacía sopa de bolitas de masa, empanadillas, bollos al vapor y pasteles de carne curada. Pero estos eran menos frecuentes — sin nevera, sin poder ir a la tienda cada vez que querías. Todo había que hacerlo desde cero, lo que llevaba tiempo y esfuerzo.
 
-This dietary habit was stamped into my genes like a brand. Even after my living conditions improved, I remained almost obsessively passionate about meat and wheat-based foods.
+Este hábito alimenticio se me grabó en los genes como una marca. Incluso después de que mis condiciones de vida mejoraran, mantuve una pasión casi obsesiva por la carne y los alimentos a base de trigo.
 
-When I went to Xi'an, the "carbohydrate capital," and saw the dazzling array of noodle dishes — oil-splashed noodles, saozi noodles, roujiamo — it was like falling into a dopamine vortex. In that moment, I was still that boy sprinting under the blazing sun, chasing nothing more than a piece of fatty pork. This raw pleasure, born from the combination of carbs and fat, precisely hit the switch labeled "scarcity" in my cerebral cortex.
+Cuando fui a Xi'an, la "capital de los carbohidratos", y vi la deslumbrante variedad de platos de fideos — fideos con aceite hirviendo, fideos saozi, roujiamo — fue como caer en un vórtice de dopamina. En ese momento, seguía siendo aquel niño corriendo bajo el sol abrasador, persiguiendo nada más que un trozo de cerdo graso. Este placer primario, nacido de la combinación de carbohidratos y grasa, acertaba de lleno en el interruptor etiquetado como "escasez" en mi corteza cerebral.
 
-**04. Awakening: The Body's Invoice and a Cognitive Revolution**
+**04. Despertar: La factura del cuerpo y una revolución cognitiva**
 
-But the adult body is honest.
+Pero el cuerpo adulto es honesto.
 
-When the arrows on my health checkup report started nervously jumping around, I suddenly woke up: I thought I was enjoying freedom, but I was actually being enslaved by past hunger. Those preferences for high sugar, high oil, and high carbs are essentially "survival energy packs" left over from agricultural civilization for physical laborers. But placed in today's world of infinite supply, they've become invisible killers of health.
+Cuando las flechas en mi informe de reconocimiento médico empezaron a saltar nerviosamente, de repente desperté: pensaba que estaba disfrutando de la libertad, pero en realidad estaba siendo esclavizado por el hambre del pasado. Esas preferencias por el alto contenido de azúcar, aceite y carbohidratos son esencialmente "paquetes de energía de supervivencia" que la civilización agrícola dejó para los trabajadores físicos. Pero colocadas en el mundo actual de oferta infinita, se han convertido en asesinos invisibles de la salud.
 
-Given the choice between steaming, boiling, or light stewing — why always choose fiery stir-frying? Already finished one bowl of rice, why add another? Already full, why can't you put down your chopsticks? We're not just eating food — we're eating a "habit" inherited from our elders, eating a sense of "security." If we don't stuff ourselves to the brim, if our faces aren't glistening with oil, there seems to be a deep-seated feeling that we haven't yet escaped hardship.
+Ante la elección entre vapor, hervido o guisado ligero — ¿por qué elegir siempre el salteado ardiente? Ya te has comido un bol de arroz, ¿por qué añadir otro? Ya estás lleno, ¿por qué no puedes dejar los palillos? No solo estamos comiendo comida — estamos comiendo un "hábito" heredado de nuestros mayores, comiendo una sensación de "seguridad". Si no nos atiborramos hasta reventar, si nuestras caras no brillan de grasa, parece que hay un sentimiento profundo de que aún no hemos escapado de las dificultades.
 
-**05. Passing It On: Breaking That Chain of Scarcity**
+**05. Transmitirlo: Romper esa cadena de escasez**
 
-Dietary habits are a family's most profound invisible inheritance. Often, we think we're choosing food, but we're actually obeying the inertia in our genes. That compulsion to eat until your face is shiny with oil before you feel you've "lived well" is the most secretive legacy our elders left us — and also the sharpest chain. Our generation took decades to walk out of the shadow of "not having enough to eat." The next generation's challenge is learning restraint in a world of "too many temptations."
+Los hábitos alimenticios son la herencia invisible más profunda de una familia. A menudo, creemos que elegimos la comida, pero en realidad obedecemos a la inercia de nuestros genes. Esa compulsión de comer hasta que la cara te brille de grasa antes de sentir que has "vivido bien" es el legado más secreto que nos dejaron nuestros mayores — y también la cadena más afilada. Nuestra generación tardó décadas en salir de la sombra de "no tener suficiente para comer". El desafío de la próxima generación es aprender a contenerse en un mundo de "demasiadas tentaciones".
 
-As a father, I know how stubborn these habits are. But I want my child to eat less rice and more quality protein and vegetables. I try to instill in her a light philosophy of "the true taste of food" — less heavy sugar and salt. I teach her to read ingredient labels and recognize the maze of additives hidden behind delicious flavors. If I don't cut this off at the dinner table, my child might still be searching for so-called happiness in a fog of high sugar and high oil. A person's life is not only about wealth — it also requires a healthy diet to improve the quality of life. Starting from every bite of light, clean food, completely sever that chain of "scarcity" that has stretched across decades.
+Como padre, sé lo tercos que son estos hábitos. Pero quiero que mi hija coma menos arroz y más proteína de calidad y verduras. Intento inculcarle una filosofía ligera de "el verdadero sabor de la comida" — menos azúcar y sal intensos. Le enseño a leer las etiquetas de los ingredientes y a reconocer el laberinto de aditivos escondidos detrás de los sabores deliciosos. Si no corto esto en la mesa, mi hija podría seguir buscando la llamada felicidad en una niebla de alto azúcar y alta grasa. La vida de una persona no solo se trata de riqueza — también requiere una dieta saludable para mejorar la calidad de vida. Empezando por cada bocado de comida ligera y limpia, romper por completo esa cadena de "escasez" que se ha extendido durante décadas.

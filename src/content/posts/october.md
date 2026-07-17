@@ -1,32 +1,32 @@
 ---
-title: Thoughts in October
+title: Pensamientos de octubre
 pubDate: '2014-10-14'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Future
+- Futuro
 ---
 
-Cold rain arrived, and Chengdu's temperature dropped significantly. Combined with my reckless mixing of baijiu and beer, I caught a cold. I was watching *The Truman Show* on TV and blowing my nose when my mom threw a pair of fuzzy slippers at my feet and told me to put them on. Winter was here! Whenever she rummaged through the closet for fuzzy slippers, you didn't need a weather forecast to know that meteorological winter had arrived. But wearing the fuzzy slippers somehow made it feel even colder. A chill ran across my shoulders, so I went to the room and put on socks — suddenly warm as spring.
+Llegó la lluvia fría y la temperatura en Chengdu bajó de golpe. Sumado a mi imprudencia de mezclar baijiu con cerveza, me resfrié. Estaba viendo *El show de Truman* en la tele y sonándome los mocos cuando mi madre me tiró un par de zapatillas peludas a los pies y me dijo que me las pusiera. ¡Ya llegó el invierno! Cada vez que ella rebusca en el armario las zapatillas peludas, no hace falta mirar el pronóstico para saber que el invierno meteorológico ha llegado. Pero ponerme las zapatillas peludas hizo que sintiera aún más frío. Un escalofrío me recorrió los hombros, así que fui a la habitación y me puse calcetines — de repente, una calidez primaveral.
 
-Only then could I settle down to write this blog post, otherwise October would slip by.
+Solo así pude sentarme a escribir este post, porque si no, octubre se me escapaba.
 
-An alumni asked why I hadn't updated the blog in so long, and why I lacked the fiery energy I had in my school days. I said I'd turned into an idiot, and that was that. First, I've grown lazy about reading — new books sit untouched on the shelf after I buy them, gather dust, then get packed into storage boxes with mothballs, like a ritual before museum archiving. Second, I use social media less, narrowing my perspective and rarely distilling knowledge. Third, I take the path of least resistance — too lazy to tinker. I haven't even updated my blog software to follow the developer's releases. That's a clinical sign of my OCD being cured. Fourth, I feel somewhat powerless about learning new things. My interest comes and goes, inconsistently. All of this makes me feel like an idiot. And that's not even the worst part — the biggest problem is that I'm too lazy to change any of this, always telling myself there's plenty of time.
+Un excompañero me preguntó por qué no actualizaba el blog desde hacía tanto, y por qué había perdido esa energía ardiente que tenía en la época universitaria. Le dije que me había vuelto un idiota, y punto. Primero, me da pereza leer — los libros nuevos se quedan sin tocar en la estantería después de comprarlos, acumulan polvo, y luego los meto en cajas de almacenamiento con naftalina, como un ritual antes de archivar en un museo. Segundo, uso menos las redes sociales, mi perspectiva se ha estrechado y rara vez destilo conocimiento. Tercero, elijo el camino de menor resistencia — me da flojera trastear. Ni siquiera he actualizado el software del blog para seguir los lanzamientos del desarrollador. Esa es una señal clínica de que mi TOC se está curando. Cuarto, me siento algo impotente ante aprender cosas nuevas. Mi interés va y viene, sin constancia. Todo esto me hace sentir como un idiota. Y eso no es lo peor — el mayor problema es que me da pereza cambiar todo esto, siempre me digo que hay tiempo de sobra.
 
-Then there's the ongoing mortgage, dragging on with no end in sight, genuinely lowering my quality of life. With my uncontrollable material desires plus mortgage and living expenses, I have to find ways to earn more. If my monthly income dips below 5-6k, anxiety sets in.
+Luego está la hipoteca interminable, que se alarga sin final a la vista y baja de verdad mi calidad de vida. Con mis deseos materiales incontrolables más la hipoteca y los gastos diarios, tengo que buscar maneras de ganar más. Si mis ingresos mensuales bajan de 5-6 mil, me entra la ansiedad.
 
-And it's not just pressure from myself — my parents have expectations too. My mom asks how much savings I have, and I always struggle to answer. My dad wants me to put up tens of thousands of yuan so he can add some more and buy me a Kia K3 or a Fiat Viaggio. Cars are a man's side-piece, but at this stage, I can barely maintain one, let alone afford one. So I've turned him down twice.
+Y no solo es presión mía — mis padres también tienen expectativas. Mi madre pregunta cuántos ahorros tengo, y siempre me cuesta responder. Mi padre quiere que ponga decenas de miles de yuanes para que él añada más y me compre un Kia K3 o un Fiat Viaggio. Los coches son la amante del hombre, pero en esta etapa apenas puedo mantener uno, ni hablar de comprarlo. Así que lo he rechazado dos veces.
 
-I'm always reluctant to show people my most pathetic state. When anyone asks how I'm doing, I give the same answer: "Getting by. Under a lot of pressure."
+Siempre me cuesta mostrar a los demás mi estado más lamentable. Cuando alguien me pregunta cómo estoy, doy la misma respuesta: "Voy tirando. Con mucha presión."
 
-Not only am I in bad shape personally, but the broader environment is terrible too. Being in the liquor industry — which has been struggling these past two years — makes it easy to extrapolate to the national economy. It feels like no industry is having an easy time right now. Real estate is the same. On my commute to work, there's a newly developed residential complex. When it first launched, a huge sign on the fence read "Starting from 7898 per square meter." Half a year later, the price kept dropping — "7598," then "7398." Recently the number on the wall read "7198." Some kind-hearted jerk had scraped a gash in one wall, revealing the "7398" underneath, the ink still glaringly bright — like someone's pants had fallen down.
+No solo estoy mal yo, sino que el entorno general es terrible también. Estar en la industria del licor — que ha estado pasando apuros estos dos últimos años — hace fácil extrapolar a la economía nacional. Parece que a ningún sector le va bien ahora. El sector inmobiliario igual. En mi camino al trabajo hay un complejo residencial nuevo. Cuando salió al mercado, un cartel enorme en la valla decía "Desde 7898 por metro cuadrado". Seis meses después, el precio seguía bajando — "7598", luego "7398". Hace poco el número en la pared decía "7198". Algun gracioso había raspado un trozo de la pared, dejando ver el "7398" de abajo, la tinta todavía brillante — como si a alguien se le hubieran caído los pantalones.
 
-So many cities used to have purchase restrictions, and now only a handful remain. The government's intention to rescue the market is obvious, but consumers still aren't biting. A quick news search shows that bank deposits have declined year-over-year. I'm genuinely curious — where did all the RMB go?
+Antes tantas ciudades tenían restricciones de compra, y ahora solo quedan unas pocas. La intención del gobierno de rescatar el mercado es evidente, pero los consumidores siguen sin morder. Una búsqueda rápida en las noticias muestra que los depósitos bancarios han caído interanualmente. De verdad me pregunto — ¿adónde se fue todo ese yuan?
 
-Legend has it that when real estate is doing well, the stock index drops, and when housing prices fall, the index rises. So I topped up my stock account — dormant for over two years — with some money and bought LeTV shares. I was really bullish on its potential as a future leader in home entertainment. Who could have guessed that within a month, the State Administration of Radio, Film and Television would issue two directives restricting the development of internet TV, shattering all my fantasies. The Chinese stock market — yeah, right!
+Cuenta la leyenda que cuando el sector inmobiliario va bien, el índice bursátil baja, y cuando los precios de la vivienda caen, el índice sube. Así que recargué mi cuenta de acciones — inactiva durante más de dos años — con algo de dinero y compré acciones de LeTV. De verdad creía en su potencial como futuro líder del entretenimiento en el hogar. Quién iba a imaginar que en menos de un mes, la Administración Estatal de Radio, Cine y Televisión emitiría dos directivas restringiendo el desarrollo de la televisión por internet, destrozando todas mis fantasías. La bolsa china — ¡bah!
 
-Everyone is looking for their own way out. A colleague who loves popping into my office asked me about processing herbal medicine or brewing my own liquor. I said both were great — bright prospects, clear profit models. "Let's do it together!"
+Todo el mundo busca su propia salida. Un compañero al que le encanta entrar en mi oficina me preguntó sobre procesar hierbas medicinales o destilar mi propio licor. Le dije que ambas eran geniales — perspectivas brillantes, modelos de negocio claros. "¡Hagámoslo juntos!"
 
-And yet... to this day, I haven't taken the first step. November is almost here...
+Y sin embargo... hasta hoy, no he dado el primer paso. Ya casi es noviembre...

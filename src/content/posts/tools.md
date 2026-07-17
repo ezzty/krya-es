@@ -1,103 +1,103 @@
 ---
-title: With AI, I Never Worry About Leaving the Door Open Again
+title: Con la IA, ya nunca me preocupo por dejar la puerta abierta
 pubDate: '2026-04-29'
 author: jin
 draft: false
 categories:
-  - Tech
+- Tecnología
 tags:
-  - AI
-  - Home Assistant
-  - Smart Home
-  - Tools
+- IA
+- Home Assistant
+- Hogar inteligente
+- Herramientas
 ---
 
-You're out and about, and suddenly you think — did I forget to close the door?
+Estás fuera de casa y de repente te asalta la duda: ¿me habré dejado la puerta abierta?
 
-I'm sure many people have felt this anxiety. I know I have. Every time I leave home, I keep replaying the memory: did I actually lock the door? Sometimes I'd already be out of the neighborhood and still run back to check.
+Seguro que mucha gente ha sentido esa ansiedad. Yo, desde luego, sí. Cada vez que salgo de casa, no paro de rebobinar el recuerdo: ¿cerré bien la puerta? A veces ya había salido del barrio y volvía corriendo a comprobarlo.
 
-To solve this problem, I built a "toolbox" page that puts all my home information — door status, temperature, router info — in one place, accessible anytime, anywhere.
+Para solucionarlo, me construí una página «caja de herramientas» que reúne toda la información de mi casa —estado de la puerta, temperatura, datos del router— en un solo sitio, accesible desde cualquier lugar y en cualquier momento.
 
-The story starts with an image hosting service.
+La historia empieza con un servicio de alojamiento de imágenes.
 
 ![948.avif](https://user0102.cn.imgto.link/public/20260429/948.avif)
 
-### Starting with Image Hosting
+### Empezando con el alojamiento de imágenes
 
-I write a blog and sometimes need to insert images using Markdown. Using someone else's image host always worried me. Using my own Alibaba Cloud OSS client felt too cumbersome. I never found a web-based solution that felt effortless.
+Escribo un blog y a veces necesito insertar imágenes con Markdown. Usar un servicio de imágenes de otro siempre me daba desconfianza. Usar mi propio cliente de Alibaba Cloud OSS me parecía demasiado engorroso. Nunca encontraba una solución web que se sintiera realmente sencilla.
 
-Now that I have Hermes Agent, I wanted to make the most of it. I asked it to build me an image hosting service so I could upload images from my phone.
+Ahora que tengo Hermes Agent, quería sacarle el máximo partido. Le pedí que me construyera un servicio de alojamiento de imágenes para poder subir fotos desde el móvil.
 
-The implementation was simple:
+La implementación fue sencilla:
 
-Step one: I stated my requirement — use Alibaba Cloud OSS to create a private image host with password authentication to prevent abuse. The AI recommended using Alibaba Cloud Function Compute as the backend, with the frontend hosted anywhere.
+Paso uno: le expliqué mi requisito — usar Alibaba Cloud OSS para crear un servicio privado de imágenes con autenticación por contraseña para evitar abusos. La IA recomendó usar Alibaba Cloud Function Compute como backend, y el frontend podía alojarse en cualquier sitio.
 
-I only did one thing: provided the Alibaba Cloud OSS API credentials.
+Yo solo hice una cosa: proporcionar las credenciales de la API de Alibaba Cloud OSS.
 
-The rest was handled by the AI.
+El resto lo hizo la IA.
 
-Coincidentally, Xiaomi was offering billions of free tokens to developers, and I managed to get some. This was also a chance to test the MiMo-v2.5-pro model. Within minutes of giving the instruction, it had built both frontend and backend code, and asked me to upload the backend to the server. After a few rounds of debugging, the OSS image upload page was ready.
+Casualmente, Xiaomi estaba ofreciendo miles de millones de tokens gratis a desarrolladores y conseguí algunos. También era una oportunidad para probar el modelo MiMo-v2.5-pro. A los pocos minutos de dar la instrucción, ya había generado el código del frontend y del backend, y me pidió que subiera el backend al servidor. Tras un par de rondas de depuración, la página de subida de imágenes a OSS estaba lista.
 
-Once the page was live, I felt it was too plain. Could I make it more feature-rich?
+Una vez que la página estuvo en marcha, sentí que era demasiado simple. ¿Podría hacerla más completa?
 
-So I went ahead and built a "Toolbox."
+Así que me puse a construir una «Caja de herramientas».
 
-### The Toolbox
+### La Caja de herramientas
 
-Combining the information I check daily, I first built stock market and cryptocurrency price displays using Tencent Finance and OKX APIs.
+Combinando la información que consulto a diario, primero construí visualizaciones de bolsa y criptomonedas usando las APIs de Tencent Finance y OKX.
 
-These tools were extremely simple since all the data comes from external APIs. Next, I wanted to try something more advanced.
+Estas herramientas eran muy sencillas porque todos los datos vienen de APIs externas. Luego quise probar algo más avanzado.
 
-What I wanted to see:
+Lo que quería ver:
 
-1. Whether the door at home is closed (this requires Docker to install Home Assistant with the Xiaomi miot plugin)
-2. Router status
-3. Server status
+1. Si la puerta de casa está cerrada (esto requiere instalar Home Assistant con Docker y el plugin miot de Xiaomi)
+2. El estado del router
+3. El estado del servidor
 
-My home network runs on a Linux mini PC, and I also have a Linux environment on the public internet. But the public server can't access my home network. The AI suggested several approaches, and I decided to collect data from the home network and push it to the public server.
+Mi red doméstica funciona en un mini PC con Linux, y también tengo un entorno Linux en internet público. Pero el servidor público no puede acceder a mi red local. La IA sugirió varios enfoques, y decidí recolectar datos desde la red local y enviarlos al servidor público.
 
-### Technical Implementation
+### Implementación técnica
 
-The core of the entire system is data collection and pushing.
+El núcleo de todo el sistema es la recolección y el envío de datos.
 
-**Home Status**
+**Estado del hogar**
 
-Home Assistant connects various smart devices: door locks, temperature/humidity sensors, air purifiers, and more.
+Home Assistant conecta varios dispositivos inteligentes: cerraduras, sensores de temperatura y humedad, purificadores de aire, etc.
 
-I wrote a local collection script that fetches data from the Home Assistant API every minute and uploads it to the public server.
+Escribí un script de recolección local que obtiene datos de la API de Home Assistant cada minuto y los sube al servidor público.
 
-The door status uses a door/window sensor that detects whether the door is open or closed via a magnet. Temperature and humidity sensors are placed outdoors, indoors, and in the server cabinet, so I can monitor the home environment at any time.
+El estado de la puerta usa un sensor de puerta/ventana que detecta si está abierta o cerrada mediante un imán. Los sensores de temperatura y humedad están colocados en el exterior, el interior y el armario del servidor, así que puedo monitorizar el ambiente del hogar en todo momento.
 
-**Router Status**
+**Estado del router**
 
-The router runs OpenWrt. Through LuCI's web API, I can get CPU temperature, uptime, online user count, and other info. I wrote a shell script that collects data every 5 minutes and uploads it via SCP.
+El router ejecuta OpenWrt. A través de la API web de LuCI, puedo obtener la temperatura de la CPU, el tiempo de actividad, el número de usuarios conectados y otros datos. Escribí un script en shell que recolecta información cada 5 minutos y la sube mediante SCP.
 
-**Server Status**
+**Estado del servidor**
 
-Server status is even simpler — just read system files directly for CPU temperature, memory usage, disk space, and other metrics.
+El estado del servidor es aún más sencillo: basta con leer los archivos del sistema para obtener la temperatura de la CPU, el uso de memoria, el espacio en disco y otras métricas.
 
-### The Result
+### El resultado
 
-Now, whenever I open the toolbox page, I can see:
+Ahora, cada vez que abro la página de la caja de herramientas, puedo ver:
 
-- **Home Status**: Whether the door is closed, indoor/outdoor temperature, cabinet temperature
-- **Market Trends**: Prices for Xiaomi, Tesla, and Gold
-- **Crypto**: Real-time prices for BTC and ETH
-- **Router Status**: CPU temperature, online user count
-- **Homelab Status**: Server CPU, memory, and disk usage
-- **World Clock**: Time in Beijing, London, and New York
-- **Daily Poetry**: A random classical Chinese poem
+- **Estado del hogar**: si la puerta está cerrada, temperatura interior y exterior, temperatura del armario del servidor
+- **Tendencias del mercado**: precios de Xiaomi, Tesla y Oro
+- **Cripto**: precios en tiempo real de BTC y ETH
+- **Estado del router**: temperatura de la CPU, número de usuarios conectados
+- **Estado del Homelab**: uso de CPU, memoria y disco del servidor
+- **Reloj mundial**: hora en Pekín, Londres y Nueva York
+- **Poesía diaria**: un poema clásico chino al azar
 
-The entire page also supports PWA, so it can be added to the phone's home screen and used like a native app.
+Toda la página también es compatible con PWA, así que se puede añadir a la pantalla de inicio del móvil y usarla como una aplicación nativa.
 
-### Making the Most of It
+### Sacándole el máximo partido
 
-The value of this toolbox lies in consolidating information scattered across different platforms into one place.
+El valor de esta caja de herramientas está en reunir en un solo lugar información dispersa en diferentes plataformas.
 
-Before, checking the door lock required opening the Mi Home app. Checking router status meant opening a browser and typing the IP. Checking stock prices required opening a trading app.
+Antes, para comprobar la cerradura tenía que abrir la app de Mi Home. Para ver el estado del router, abría el navegador y escribía la IP. Para consultar el precio de las acciones, abría una aplicación de trading.
 
-Now, one page handles everything.
+Ahora, una sola página lo cubre todo.
 
-And because I built it myself, I can add new features anytime. For example, I might add weather forecasts, package tracking, or calendar reminders later.
+Y como lo he construido yo mismo, puedo añadir nuevas funciones en cualquier momento. Por ejemplo, podría agregar pronósticos del tiempo, seguimiento de paquetes o recordatorios del calendario más adelante.
 
-But honestly, I can't think of more features I need right now. This is good enough for now.
+Pero, sinceramente, ahora mismo no se me ocurren más funciones que necesite. Con esto ya tengo suficiente por ahora.

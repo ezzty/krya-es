@@ -1,28 +1,28 @@
 ---
-title: Cheers!
+title: ¡Salud!
 pubDate: '2015-10-26'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Wedding
+- Boda
 ---
 
-At the age of 26, the bewildering twists of life came in the form of a phone call. It was around 8:50 AM, and I was carefully backing into a parking spot downstairs at work, checking the rearview mirror from side to side. A college classmate I hadn't heard from in months called out of nowhere and got straight to the point: "Please come to my wedding this weekend at a hotel outside the Third Ring Road." My car was still creeping backward, getting closer and closer to the wall, the backup beeping growing more and more urgent — I was about to crash. My mind went blank. On a sweltering August morning, the car nearly hit the wall, a classmate suddenly announced his wedding, and I forgot to hit the brakes.
+A los 26 años, los giros desconcertantes de la vida llegaron en forma de una llamada telefónica. Eran alrededor de las 8:50 de la mañana, y estaba maniobrando con cuidado para estacionar marcha atrás en la entrada del trabajo, revisando el espejo retrovisor de un lado a otro. Un compañero de la universidad, de quien no había sabido nada en meses, llamó de la nada y fue directo al grano: "Por favor, ven a mi boda este fin de semana en un hotel fuera del Tercer Anillo". Mi coche seguía retrocediendo, cada vez más cerca de la pared, el pitido de la marcha atrás sonaba más urgente — estaba a punto de chocar. Mi mente se quedó en blanco. En una sofocante mañana de agosto, el coche casi choca contra la pared, un compañero anunció su boda de repente, y yo me olvidé de pisar el freno.
 
-"Shotgun weddings are our class's fine tradition — everyone should carry it on!" Zhang Erwa took a sip of baijiu, deliberately furrowing his brows toward the bridge of his nose like an old man in his seventies or eighties, as if he'd just had some profound revelation from the liquor. After a moment of brewing, he delivered this line with great relish, sending the whole table into fits of laughter. Shotgun weddings were indeed our class's "fine tradition." It's called "fine" because if the woman is already pregnant, the mother-in-law doesn't impose so many conditions and demands, making it easier for the man to propose. It's called a "tradition" because several newlywed classmates showed visibly pregnant bellies just a month or two after their weddings — anyone with eyes could tell.
+"Las bodas por sorpresa son nuestra tradición de clase — ¡todos deberían continuarla!" Zhang Erwa tomó un sorbo de baijiu, frunciendo el ceño deliberadamente hacia el puente de la nariz como un anciano de setenta u ochenta años, como si acabara de tener una revelación profunda gracias al licor. Tras un momento de reflexión, soltó esta frase con gran deleite, provocando risas en toda la mesa. Las bodas por sorpresa eran, de hecho, nuestra "tradición" de clase. Se llama "tradición" porque varias compañeras recién casadas mostraban vientres visiblemente embarazados solo uno o dos meses después de la boda — cualquiera con ojos podía verlo.
 
-Each person has their own happiness, and I don't want to judge whether this is right or wrong by conventional morality.
+Cada persona tiene su propia felicidad, y no quiero juzgar si esto está bien o mal según la moral convencional.
 
-Some time later, another classmate's wedding was approaching — not exactly sudden, since we'd already met his wife a year before. Zhang Erwa asked me how much to put in the red envelope. I wanted to give a generous amount, but this year I'd been running a monthly deficit, so I reluctantly chose the minimum. Zhang Erwa wanted to give more, but after hearing my amount, he matched it. At our age, things are awkward — the time when we most want to be free-spirited, unbound, and roaming at will is also the time when we're poorest and most helpless. A small red envelope, but it carries our good intentions. I asked Zhang Erwa if he was getting married soon too, so we could prepare our gift money together. He said no. I urged him to hurry up and practice our "fine tradition" and nip his future mother-in-law's growing material ambitions in the bud.
+Tiempo después, se acercaba la boda de otro compañero — no fue tan repentina, ya que habíamos conocido a su esposa un año antes. Zhang Erwa me preguntó cuánto poner en el sobre rojo. Quería dar una cantidad generosa, pero este año había estado en números rojos cada mes, así que a regañadientes elegí el mínimo. Zhang Erwa quería dar más, pero tras oír mi cantidad, igualó la suya. A nuestra edad, las cosas son incómodas — el momento en que más queremos ser despreocupados, sin ataduras, y vagar libremente es también el momento en que somos más pobres y estamos más desamparados. Un sobre rojo pequeño, pero lleva nuestras buenas intenciones. Le pregunté a Zhang Erwa si él también se casaría pronto, para que pudiéramos preparar el dinero del regalo juntos. Dijo que no. Le insté a que se apresurara a practicar nuestra "tradición" y cortara de raíz las crecientes ambiciones materiales de su futura suegra.
 
-This classmate held his wedding banquet in the county town in October. I went a day early to help him organize things. One year in college, his father fell seriously ill. The family went deeply into debt and still couldn't save him. After his father passed away, the loss of a loved one and the financial burden weighed heavily on him — it was a devastating blow. Looking back on that period, he was doing door-to-door tutoring every single day. Self-reliance was his only option.
+Este compañero celebró su banquete de bodas en el pueblo en octubre. Fui un día antes para ayudarlo a organizar las cosas. Un año en la universidad, su padre cayó gravemente enfermo. La familia se endeudó profundamente y aun así no pudo salvarlo. Tras la muerte de su padre, la pérdida de un ser querido y la carga financiera pesaron mucho sobre él — fue un golpe devastador. Mirando hacia atrás en ese período, daba clases particulares a domicilio todos los días. La autosuficiencia era su única opción.
 
-He planned both weddings entirely by himself — where to hold them, how much per table, who to invite, how many cars to arrange. He handled every detail alone. Even on the day of the wedding, he was constantly on the phone making arrangements while on the way to pick up the bride.
+Él planeó ambas bodas completamente solo — dónde celebrarlas, cuánto por mesa, a quién invitar, cuántos coches organizar. Manejó cada detalle por su cuenta. Incluso el día de la boda, estaba constantemente al teléfono haciendo arreglos mientras iba de camino a recoger a la novia.
 
-I noticed he had hired only a videographer and forgotten to hire a photographer. It would be a lifelong regret not to capture some of life's most important moments. Fortunately, I brought my DSLR and volunteered to fill the gap.
+Noté que solo había contratado a un camarógrafo y se había olvidado de contratar a un fotógrafo. Sería un arrepentimiento de por vida no capturar algunos de los momentos más importantes de la vida. Por suerte, llevé mi réflex digital y me ofrecí voluntario para cubrir ese hueco.
 
-There was a moment during the wedding for sincere confessions, and he cried facing his bride. I quietly wiped away tears on the side too — I couldn't tell if it was from being moved, from excitement at my friend's marriage, or from the feeling that life is just so hard — how much suffering and hardship must one walk through before reaching happiness.
+Hubo un momento durante la boda para confesiones sinceras, y él lloró frente a su novia. Yo también limpié en silencio las lágrimas a un lado — no podía distinguir si era por la emoción, por la alegría de ver casarse a mi amigo, o por la sensación de que la vida es simplemente muy dura — ¿cuánto sufrimiento y dificultad debe uno atravesar antes de alcanzar la felicidad?
 
-At the banquet, I raised a glass and drained it in one gulp!
+En el banquete, levanté mi copa y la vacié de un trago. ¡Salud!

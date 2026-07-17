@@ -1,17 +1,17 @@
 ---
-title: Hey, Teacher!
+title: ¡Eh, Teacher!
 pubDate: '2014-05-08'
 author: jin
 draft: false
 categories:
-  - Work
+- Trabajo
 tags:
-  - Creator
-  - lowb
+- Creador
+- lowb
 ---
 
-Chengdu seems to have this custom: anyone who knows a bit of technology can be called "Teacher" or "Master," or abbreviated as "X Shi." Our company used to have a designer surnamed Jiang, so naturally everyone called him "Jiang Shi," and with people saying "Jiang Shi" (sounding like "zombie") all day, I almost forgot his real name. Compared to him, I got lucky. Ever since the girl at the print shop on the fifth floor started calling me "Teacher," everyone else in the company seemed to have finally found the perfect catch-all term, and one by one they switched to calling me "Teacher" too. This sudden change caught me off guard—I hadn't even prepared any tipping money for the name change, let alone red envelopes.
+Parece que en Chengdu hay una costumbre: a cualquiera que sepa un poco de tecnología le llaman "Teacher" o "Maestro", o lo abrevian como "X Shi". En mi empresa había un diseñador de apellido Jiang, así que todo el mundo le decía "Jiang Shi", y con tanto "Jiang Shi" (que suena como "zombi") por aquí y por allá, casi me olvido de su nombre real. Comparado con él, yo tuve suerte. Desde que la chica de la imprenta del quinto piso empezó a llamarme "Teacher", el resto de la empresa pareció encontrar por fin el término perfecto para todo, y uno tras otro se pasaron a llamarme "Teacher" también. Este cambio repentino me pilló desprevenido: ni siquiera había preparado dinero para la propina del cambio de nombre, y mucho menos sobres rojos.
 
-I can't help getting a bit literary here, thinking back to the days in college when I helped classmates install operating systems. Back then, I never imagined I'd still be a jack-of-all-trades. People can't escape the momentum of fate—the state you were in years ago already determined who you'd become now. The only slight differences are that the stubble on my face is thicker and the oil on my forehead shines brighter. But I'm still doing roughly the same things. Computer problems? Find the Teacher! Phone problems? Find the Teacher! Packaging issues? Find the Teacher! Need to build a website? Still find the Teacher! Rumor has it the Teacher has countless resources of all kinds, with terabytes of torrents in his Baidu cloud drive!
+No puedo evitar ponerme un poco literario aquí, recordando los días de universidad cuando ayudaba a mis compañeros a instalar sistemas operativos. En aquel entonces, nunca imaginé que seguiría siendo un todoterreno. La gente no puede escapar al impulso del destino: el estado en el que estabas hace años ya determinó en quién te has convertido ahora. Las únicas pequeñas diferencias son que la barba en mi cara es más espesa y el brillo de la grasa en mi frente es más intenso. Pero sigo haciendo más o menos lo mismo. ¿Problemas con el ordenador? ¡Busca al Teacher! ¿Problemas con el móvil? ¡Busca al Teacher! ¿Problemas de empaquetado? ¡Busca al Teacher! ¿Necesitas hacer una página web? ¡También busca al Teacher! ¡Se rumorea que el Teacher tiene un montón de recursos de todo tipo, con terabytes de torrents en su disco de Baidu!
 
-But here's the truth, everyone, and it's something you might not fully understand: your network is actually pretty low-tier, and I'm part of your low-tier circle too. The reality is I don't really know anything. When you bring me a problem, I just search for answers online and relay them to you. When I get tired, too lazy to think, too lazy to tinker, I know nothing at all. At that point, what you need is a connection, or you need a skill—specifically, the ability to become a creator.
+Pero aquí está la verdad, y es algo que quizás no entendáis del todo: vuestra red es bastante de bajo nivel, y yo también formo parte de vuestro círculo de bajo nivel. La realidad es que no sé casi nada. Cuando me traéis un problema, solo busco respuestas en internet y os las transmito. Cuando me canso, me da pereza pensar, me da pereza trastear, no sé absolutamente nada. En ese momento, lo que necesitáis es una conexión, o necesitáis una habilidad, concretamente la capacidad de convertiros en un creador.

@@ -1,17 +1,17 @@
 ---
-title: 2014 Strawberry Music Festival (Chengdu) Live
+title: En Vivo en el Festival de la Fresa 2014 (Chengdu)
 pubDate: '2014-06-02'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Chengdu Strawberry Music Festival
+- Festival de la Fresa de Chengdu
 ---
 
-This was the Strawberry Music Festival's first time in Chengdu. I usually listen to music on Xiami and knew a few familiar artists, so I went with some friends. Chengdu had just stepped into summer, and the atmosphere at the venue was electric. But the girls' outfits were refreshingly cool — hard to resist. This year's theme was "SNS life is rubbish, get a real life." I couldn't agree more — with so many girls around, who the hell wants to hang out online!
+Era la primera vez que el Festival de la Fresa llegaba a Chengdu. Normalmente escucho música en Xiami y conocía a algunos artistas familiares, así que fui con unos amigos. Chengdu acababa de entrar en el verano y el ambiente en el recinto era eléctrico. Pero los atuendos de las chicas eran refrescantemente ligeros — difíciles de ignorar. El lema de este año era "La vida en redes sociales es basura, vive la vida real". No podría estar más de acuerdo — con tantas chicas alrededor, ¡quién demonios quiere pasar el rato en línea!
 
-I have to admit Song Dongye was incredibly popular, but this kind of hot, intense music really needs more rhythm. Re-TROS had an amazing live presence. Lao Lang played all nostalgic songs: *Model Love Letter*, *The Brother Who Slept in the Bunk Above Me*, and of course the inevitable full-audience singalong of *My Deskmate*.
+Tengo que admitir que Song Dongye era increíblemente popular, pero este tipo de música intensa y calurosa necesita más ritmo. Re-TROS tuvo una presencia en vivo alucinante. Lao Lang tocó puras canciones nostálgicas: *Model Love Letter*, *The Brother Who Slept in the Bunk Above Me*, y por supuesto el inevitable coro de todo el público con *My Deskmate*.
 
 ![](https://i.190808.xyz/bim/_MG_0517.jpg)
 

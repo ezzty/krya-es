@@ -1,26 +1,26 @@
 ---
-title: Unofficial Blog History S01E01
+title: Historia no oficial del blog S01E01
 pubDate: '2014-07-29'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Blog
+- Blog
 ---
 
-This is the third time I've changed my domain name and blog title. The content hasn't diminished much, and my writing hasn't undergone any qualitative leap, so it hardly counts as a rebirth. The previous name, "Kong Shan Xin Yu" (New Words from the Empty Mountain), was probably inspired by the line "After fresh rain in the empty mountains" — I had just returned from Meili Snow Mountain in the autumn of 2012 and was still immersed in the ancient, tranquil atmosphere of that rain-dappled mountain valley. Combined with my desire to write something different and stand out ("biao xin li yi" — striking out on a new path), and perhaps hearing a Sun Yanzi song or remembering the book *A New Account of the Tales of the World* (*Shishuo Xinyu*), I came up with that name.
+Esta es la tercera vez que cambio el nombre de dominio y el título del blog. El contenido no ha menguado mucho, y mi escritura no ha dado ningún salto cualitativo, así que difícilmente cuenta como un renacimiento. El nombre anterior, "Kong Shan Xin Yu" (Nuevas palabras de la montaña vacía), probablemente se inspiró en el verso "Tras la lluvia fresca en las montañas vacías" — acababa de regresar de la Montaña Nevada Meili en el otoño de 2012 y aún estaba inmerso en la atmósfera antigua y tranquila de aquel valle montañoso salpicado de lluvia. Combinado con mi deseo de escribir algo diferente y destacar ("biao xin li yi" — abrir un nuevo camino), y quizás por escuchar una canción de Sun Yanzi o recordar el libro *Una nueva crónica de los cuentos del mundo* (*Shishuo Xinyu*), se me ocurrió ese nombre.
 
-Originally, my blog's slogan was "Recording life and convincing myself." Later I found a passage by Wang Xiaobo that expressed it far more profoundly. In the preface to *The Silent Majority*, he wrote:
+Originalmente, el lema de mi blog era "Registrar la vida y convencerme a mí mismo". Más tarde encontré un pasaje de Wang Xiaobo que lo expresaba mucho más profundamente. En el prólogo de *La mayoría silenciosa*, escribió:
 
-> `"My main occupation is writing fiction, but I also occasionally write essays to express my views on the world. As an ordinary person, my opinions may not be worth others' attention, but they matter a great deal to me. They show that I have my own likes and dislikes, loves and hates, and so on. Without those, there would be no flavor to being human."`
+> `"Mi ocupación principal es escribir ficción, pero también escribo ensayos de vez en cuando para expresar mi visión del mundo. Como persona común, mis opiniones quizás no merezcan la atención de otros, pero para mí importan mucho. Muestran que tengo mis propios gustos y disgustos, amores y odios, y demás. Sin eso, no tendría gracia ser humano."`
 
-I used to be more restless (or perhaps just bored) than I am now, venting everything all at once. Later I realized that was rather pointless — much like a reader who starts out with grand ambitions but, the more they read, the more they feel their own poverty and insignificance, and end up becoming humble. Put another way, many people like me, when first encountering something new, feel their minds are wide open and their ideas abundant, ready to comment on everything they see. But as we experience and learn more, we realize there are plenty of people far more capable than us, and our earlier bravado was nothing but silly self-entertainment. After recognizing this, my productivity has steadily declined — but I'm not worried. If I want to be an interesting person, I can't keep doing that anymore.
+Antes era más inquieto (o quizás solo más aburrido) que ahora, lo soltaba todo de golpe. Luego me di cuenta de que era bastante inútil — muy parecido a un lector que empieza con grandes ambiciones pero, cuanto más lee, más siente su propia pobreza e insignificancia, y termina volviéndose humilde. Dicho de otro modo, mucha gente como yo, al encontrarse con algo nuevo por primera vez, siente que su mente se abre de par en par y que las ideas abundan, listos para comentar todo lo que ven. Pero a medida que experimentamos y aprendemos más, nos damos cuenta de que hay mucha gente mucho más capaz que nosotros, y que nuestra anterior fanfarronería no era más que un entretenimiento tonto para nosotros mismos. Tras reconocer esto, mi productividad ha ido decayendo constantemente — pero no me preocupa. Si quiero ser una persona interesante, ya no puedo seguir haciendo eso.
 
-A lack of genuine humility is just another form of grandstanding. You might think the paragraph above isn't sincere — so let me confess further. I like Wang Xiaobo. I bought six of his books and haven't finished a single one, though I've re-read the famous passages several times. When the moment is right, I always remember a few lines. As for my current state of mind, a quote from *The Golden Age* fits perfectly:
+La falta de humildad genuina es solo otra forma de llamar la atención. Quizás pienses que el párrafo anterior no es sincero — así que déjame confesar más. Me gusta Wang Xiaobo. Compré seis de sus libros y no he terminado ni uno, aunque he releído los pasajes famosos varias veces. Cuando llega el momento adecuado, siempre recuerdo algunas líneas. En cuanto a mi estado de ánimo actual, una cita de *La edad de oro* encaja perfectamente:
 
-> `"That year I was twenty-one, in the golden age of my life. I had so many extravagant hopes. I wanted to love, I wanted to eat, I wanted to turn into a half-lit cloud in the sky in an instant. Only later did I realize that life is a slow process of being hammered — people grow older day by day, and hopes fade away day by day, until in the end you become like a hammered ox. But when I turned twenty-one, I didn't foresee any of this. I thought I would stay fierce forever, and nothing could hammer me down."`
+> `"Ese año tenía veintiuno, en la edad de oro de mi vida. Tenía tantas esperanzas extravagantes. Quería amar, quería comer, quería convertirme en una nube medio iluminada en el cielo en un instante. Solo más tarde me di cuenta de que la vida es un proceso lento de ser martillado — la gente envejece día a día, y las esperanzas se desvanecen día a día, hasta que al final te conviertes en un buey martillado. Pero cuando cumplí veintiuno, no preveía nada de esto. Pensé que me mantendría feroz para siempre, y que nada podría martillarme."`
 
-I, too, have so many extravagant hopes. Even knowing that life is a process of being hammered, I'll try to keep a bit of joy along the way.
+Yo también tengo tantas esperanzas extravagantes. Incluso sabiendo que la vida es un proceso de ser martillado, intentaré conservar un poco de alegría en el camino.
 
-(Last updated March 20, 2020)
+(Última actualización: 20 de marzo de 2020)

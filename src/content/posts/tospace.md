@@ -1,48 +1,48 @@
 ---
-title: Can Humanity Achieve Interstellar Travel?
+title: ¿Puede la humanidad lograr el viaje interestelar?
 pubDate: '2015-05-30'
 author: jin
 draft: false
 categories:
-  - Tech
+- Tecnología
 tags:
-  - Leaving the Solar System
-  - Humanity's Fastest Speed
-  - Interstellar Flight
+- Salir del sistema solar
+- Velocidad máxima humana
+- Vuelo interestelar
 ---
 
-I've watched *Interstellar* three times over and over again. The entire film's theoretical framework is built on relativity and wormhole theory. Fascinating as it is, I still feel that the level of technology depicted in the movie (and in real-world society) is hopelessly inadequate. Without the wormhole placed near Saturn by future humans, there's virtually no chance for humanity to fly out of the solar system with our current technological capabilities.
+He visto *Interstellar* tres veces una y otra vez. Todo el marco teórico de la película se basa en la relatividad y la teoría de los agujeros de gusano. Por fascinante que sea, aún siento que el nivel de tecnología que se muestra en la película (y en la sociedad real) es desesperadamente insuficiente. Sin el agujero de gusano que los humanos del futuro colocaron cerca de Saturno, no hay prácticamente ninguna posibilidad de que la humanidad vuele fuera del sistema solar con nuestras capacidades tecnológicas actuales.
 
 ![](https://i.190808.xyz/bim/Interstellar.png)
 
-Voyager 1 is probably the fastest machine humanity has ever built (currently exceeding the third cosmic velocity of 16.7 km/s, though its exact speed is unknown). In 2013, NASA announced that Voyager 1, launched in 1977, had finally exited the heliosphere — the region influenced by solar particles — and entered interstellar space. At the time, I naively thought the solar system must be small enough to cross in just 35 years. In reality, the distance Voyager 1 covered in those 35 years is equivalent to the smallest graduation on a micrometer when compared to the scale of the entire solar system.
+La Voyager 1 es probablemente la máquina más rápida que la humanidad haya construido (actualmente supera la tercera velocidad cósmica de 16,7 km/s, aunque su velocidad exacta se desconoce). En 2013, la NASA anunció que la Voyager 1, lanzada en 1977, finalmente había salido de la heliosfera — la región influenciada por las partículas solares — y había entrado en el espacio interestelar. En ese momento, ingenuamente pensé que el sistema solar debía ser lo suficientemente pequeño como para cruzarlo en solo 35 años. En realidad, la distancia que la Voyager 1 recorrió en esos 35 años equivale a la graduación más pequeña de un micrómetro en comparación con la escala de todo el sistema solar.
 
-**How Big Is the Solar System, Really?**
+**¿Qué tan grande es realmente el sistema solar?**
 
-Any celestial body or material orbiting the Sun falls within the solar system's boundaries. Besides the eight well-known planets, there are at least five dwarf planets, at least 173 moons, and hundreds of millions of smaller bodies. Beyond Neptune lies the Kuiper Belt — a disk-shaped region composed of numerous planetesimals, extending roughly 50 to 500 astronomical units from the Sun (one astronomical unit being the distance between Earth and the Sun). Beyond the Kuiper Belt lies a spherical cloud enveloping the solar system called the Oort Cloud, situated 50,000 to 100,000 astronomical units from the Sun, with a maximum radius of about one light-year.
+Cualquier cuerpo celeste o material que orbite el Sol está dentro de los límites del sistema solar. Además de los ocho planetas conocidos, hay al menos cinco planetas enanos, al menos 173 lunas y cientos de millones de cuerpos más pequeños. Más allá de Neptuno se encuentra el Cinturón de Kuiper, una región en forma de disco compuesta por numerosos planetesimales, que se extiende aproximadamente de 50 a 500 unidades astronómicas del Sol (una unidad astronómica es la distancia entre la Tierra y el Sol). Más allá del Cinturón de Kuiper hay una nube esférica que envuelve el sistema solar llamada Nube de Oort, situada entre 50 000 y 100 000 unidades astronómicas del Sol, con un radio máximo de aproximadamente un año luz.
 
 ![](https://i.190808.xyz/bim/cesifvx4314909.jpg)
 
-Only after passing through the Oort Cloud can humanity truly claim to have left the solar system. Yet Voyager 1 took 35 years to travel just over 120 astronomical units — less than 4 AU per year. A simple division makes it clear: even at Voyager's current speed, humanity would need at least 20,000 years to exit the solar system.
+Solo después de atravesar la Nube de Oort puede la humanidad afirmar realmente que ha salido del sistema solar. Sin embargo, la Voyager 1 tardó 35 años en recorrer poco más de 120 unidades astronómicas — menos de 4 UA por año. Una simple división lo deja claro: incluso a la velocidad actual de la Voyager, la humanidad necesitaría al menos 20 000 años para salir del sistema solar.
 
-**Human Technology Is Seriously Underwhelming**
+**La tecnología humana es seriamente decepcionante**
 
-Over the hundreds of thousands of years since humanity's emergence, every technological leap has meant an increase in our travel speed — with the most dramatic improvements occurring within the last 200 years. Unfortunately, propellant-based propulsion appears to have hit its ceiling. Today's rockets aren't fundamentally different from those of 50 years ago. According to the mass-energy equivalence E=mc², to achieve greater speeds, we need greater reverse thrust, which requires carrying more energy and achieving higher exhaust velocities. For a high-speed short trip within the solar system, the fuel and engine mass required would far exceed that of the crewed spacecraft itself.
+A lo largo de los cientos de miles de años desde la aparición de la humanidad, cada salto tecnológico ha significado un aumento en nuestra velocidad de viaje, con las mejoras más dramáticas ocurriendo en los últimos 200 años. Desafortunadamente, la propulsión basada en propelente parece haber alcanzado su límite. Los cohetes de hoy no son fundamentalmente diferentes a los de hace 50 años. Según la equivalencia masa-energía E=mc², para alcanzar mayores velocidades necesitamos un mayor empuje inverso, lo que requiere llevar más energía y lograr velocidades de eyección más altas. Para un viaje corto a alta velocidad dentro del sistema solar, la masa de combustible y motor necesaria superaría con creces la de la propia nave tripulada.
 
-So interstellar travel via propellant propulsion is simply impossible — unless we have tens of thousands of years or a practically infinite energy supply to burn through.
+Por lo tanto, el viaje interestelar mediante propulsión con propelente es simplemente imposible — a menos que tengamos decenas de miles de años o una fuente de energía prácticamente infinita para quemar.
 
-**If we rely solely on the technology we have today, humanity will forever be playing in the mud at the innermost edge of the solar system.**
+**Si dependemos únicamente de la tecnología que tenemos hoy, la humanidad estará para siempre jugando en el barro en el borde más interno del sistema solar.**
 
-Our goal is the stars and the sea! Humanity needs a new propulsion method: propellantless propulsion.
+¡Nuestro objetivo son las estrellas y el mar! La humanidad necesita un nuevo método de propulsión: la propulsión sin propelente.
 
-There are currently about a dozen propellantless propulsion concepts — solar sails, electromagnetic propulsion, nuclear fusion drives, warp engines, and more.
+Actualmente hay alrededor de una docena de conceptos de propulsión sin propelente: velas solares, propulsión electromagnética, propulsión por fusión nuclear, motores de curvatura y más.
 
-A solar sail works much like a sailing ship: an enormous thin film is deployed in space with a spacecraft trailing behind it. Photons from sunlight strike the film, generating reverse thrust. As long as the craft doesn't decelerate, it will keep accelerating until it reaches extraordinary speeds. The biggest hassle with solar sails, however, is deceleration. Traveling from one star to another star of comparable brightness, you can decelerate mid-journey using the target star's light. But if your destination is a non-luminous body, you'd need either propellant-based deceleration or gravitational braking — both tricky in practice.
+Una vela solar funciona de manera muy similar a un barco de vela: se despliega una enorme película delgada en el espacio con una nave espacial arrastrándose detrás. Los fotones de la luz solar golpean la película, generando empuje inverso. Mientras la nave no desacelere, seguirá acelerando hasta alcanzar velocidades extraordinarias. El mayor inconveniente de las velas solares, sin embargo, es la desaceleración. Viajando de una estrella a otra de brillo comparable, se puede desacelerar a mitad del viaje usando la luz de la estrella objetivo. Pero si el destino es un cuerpo no luminoso, se necesitaría desaceleración con propelente o frenado gravitacional — ambas opciones complicadas en la práctica.
 
-Electromagnetic propulsion uses electromagnetic fields to control the direction of particle ejection, steering spacecraft along predetermined trajectories. It's energy-efficient and compact, and some satellites already use this technology for orbit stabilization.
+La propulsión electromagnética utiliza campos electromagnéticos para controlar la dirección de la eyección de partículas, dirigiendo las naves espaciales a lo largo de trayectorias predeterminadas. Es eficiente en energía y compacta, y algunos satélites ya usan esta tecnología para la estabilización de órbita.
 
-Nuclear fusion propulsion is another form of propellantless drive. It's been estimated that to accelerate 11,000 tons of mass (roughly the weight of a small naval vessel) to half the speed of light, you'd need all the helium-3 on the Moon to sustain a controlled fusion reaction. Obviously, that's not feasible — and we haven't even fully mastered controlled nuclear fusion yet. But using it for short trips at 1% to 10% of light speed would be quite comfortable.
+La propulsión por fusión nuclear es otra forma de propulsión sin propelente. Se ha estimado que para acelerar 11 000 toneladas de masa (aproximadamente el peso de un pequeño buque naval) a la mitad de la velocidad de la luz, se necesitaría todo el helio-3 de la Luna para mantener una reacción de fusión controlada. Obviamente, eso no es factible — y ni siquiera hemos dominado completamente la fusión nuclear controlada aún. Pero usarla para viajes cortos al 1% o 10% de la velocidad de la luz sería bastante cómodo.
 
-Anyone who has read *The Three-Body Problem* or watched *Star Trek* is surely intrigued by the warp drive. A warp engine could accelerate a spacecraft to light-speed conditions almost instantly without altering relative time — a truly advanced propulsion concept. But a concept is just that: so far, no scientific research has been able to prove its validity.
+Cualquiera que haya leído *El problema de los tres cuerpos* o visto *Star Trek* seguramente está intrigado por el motor de curvatura. Un motor de curvatura podría acelerar una nave espacial a condiciones de velocidad de la luz casi instantáneamente sin alterar el tiempo relativo — un concepto de propulsión realmente avanzado. Pero un concepto es solo eso: hasta ahora, ninguna investigación científica ha podido probar su validez.
 
-It's clear that the next generation of spacecraft may adopt electromagnetic or nuclear fusion drive technology. There are countless challenges to overcome — and beyond physics, materials science, biology, and many other disciplines will require the collective effort of all humanity.
+Está claro que la próxima generación de naves espaciales podría adoptar tecnología de propulsión electromagnética o de fusión nuclear. Hay innumerables desafíos que superar — y más allá de la física, la ciencia de materiales, la biología y muchas otras disciplinas requerirán el esfuerzo colectivo de toda la humanidad.

@@ -1,15 +1,15 @@
 ---
-title: A Drawing of my daughter
+title: Un dibujo de mi hija
 pubDate: '2024-07-19'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Children-Picture
+- Dibujo-Infantil
 ---
 
 ![rain2.jpg](https://i.190808.xyz/typecho/2024/07/19/rain2.jpg?x-oss-process=style/826px)
-This is a drawing my daughter made when she was 4 years old. It depicts our family picking rainbow fruit in a garden. Neither of us has any talent for painting, so we never taught her any drawing skills, but we always encouraged her to paint what she sees and thinks.
+Este es un dibujo que hizo mi hija cuando tenía 4 años. Representa a nuestra familia recogiendo frutas arcoíris en un jardín. Ninguno de los dos tenemos talento para la pintura, así que nunca le enseñamos técnicas de dibujo, pero siempre la animamos a pintar lo que ve y lo que piensa.
 
-During childhood, children have many questions about the world that need to be explained by us. But can you answer them all? Never! Absolutely not! Rather than teaching them incorrect knowledge, it's better to keep quiet and let the children explore the answers on their own.
+Durante la infancia, los niños tienen muchas preguntas sobre el mundo que necesitan que les expliquemos. Pero ¿podemos responderlas todas? ¡Jamás! ¡Por supuesto que no! En lugar de enseñarles conocimientos incorrectos, es mejor callarse y dejar que los niños exploren las respuestas por sí mismos.

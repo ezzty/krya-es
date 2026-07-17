@@ -1,18 +1,18 @@
 ---
-title: Ten Years of Blogging
+title: Diez años de bloguear
 pubDate: '2018-08-21'
 author: jin
 draft: false
 categories:
-  - Life
+- Vida
 tags:
-  - Indie Blog Journey
+- Trayectoria de un blog independiente
 ---
 
-If it weren't for the news that NetEase Blog was about to shut down, I never would have remembered my own long-forgotten blog. I logged in and found a bunch of diary entries from 2008 and 2009 — backups transferred from Baidu Space before it closed, things I'd completely forgotten about. I thought all that content had been wiped out during several data migrations, so everything I could previously find only went back to 2010. Now I have hard proof that I've been blogging since 2008. It doesn't really mean anything, but it feels as if my life has somehow just gained two extra years out of thin air.
+Si no fuera por la noticia de que NetEase Blog iba a cerrar, jamás habría recordado mi propio blog, olvidado desde hace tanto. Entré y encontré un montón de entradas de diario de 2008 y 2009 — copias de seguridad transferidas desde Baidu Space antes de que cerrara, cosas que había olvidado por completo. Pensaba que todo ese contenido se había perdido durante varias migraciones de datos, así que lo único que podía encontrar hasta ahora se remontaba a 2010. Ahora tengo pruebas fehacientes de que llevo blogueando desde 2008. No significa gran cosa, pero se siente como si mi vida hubiera ganado de repente dos años extra de la nada.
 
-Re-reading those two years' worth of posts, my memory flooded back instantly. The joys and sorrows of that time, long-forgotten events, emotions that had faded away — they all returned. I remember the panic of buying a secondhand computer with my roommate when an earthquake hit, and the boredom and frustration of sitting through calculus lectures. Those fleeting dreams, pointless obsessions, ramblings with no logic whatsoever — they all rose clearly before my eyes. There was a period when I was lonely and needed to vent, so I wrote voraciously.
+Releyendo esas entradas de dos años, la memoria me volvió al instante. Las alegrías y tristezas de aquella época, eventos olvidados hace tiempo, emociones que se habían desvanecido — todo regresó. Recuerdo el pánico de comprar un ordenador de segunda mano con mi compañero de cuarto cuando ocurrió un terremoto, y el aburrimiento y la frustración de soportar las clases de cálculo. Esos sueños fugaces, obsesiones sin sentido, divagaciones sin ninguna lógica — todo se alzó nítido ante mis ojos. Hubo un período en el que estaba solo y necesitaba desahogarme, así que escribía vorazmente.
 
-Over these ten years, I've written 310 articles, totaling 300,000 Chinese characters. These words haven't formed any systematic philosophy, body of knowledge, or worldview — but they plainly reveal my perspective on the outside world and my approach to life. These views haven't been set in stone. After a decade of growth, I started out with the grand ambition to "beat the railings and compose bold essays," but gradually found myself more drawn to the quiet pleasures of "mountain-and-water vignettes." Rather than demanding equality and universal love from society, it's much easier to cultivate inner peace. "In me the tiger sniffs the rose" — that's roughly the idea.
+A lo largo de estos diez años, he escrito 310 artículos, sumando 300.000 caracteres chinos. Estas palabras no han formado ninguna filosofía sistemática, cuerpo de conocimiento o cosmovisión — pero revelan claramente mi perspectiva del mundo exterior y mi enfoque de la vida. Estas visiones no han sido inamovibles. Tras una década de crecimiento, empecé con la gran ambición de "golpear las barandillas y redactar ensayos audaces", pero poco a poco me encontré más atraído por los placeres tranquilos de "viñetas de montañas y aguas". Más que exigir igualdad y amor universal a la sociedad, es mucho más fácil cultivar la paz interior. "En mí, el tigre huele la rosa" — esa es más o menos la idea.
 
-My posting frequency has slowed down a lot these days, but I've never thought about stopping. Preserving my inner voice is important to me. By 2028, I'll still be publishing an article to commemorate twenty years of blogging. What kind of perspective will I have then, looking back at the gains and losses of those twenty years? No way to calculate it. But in any case — "let's kindle a fresh fire to try the new tea; while youth lasts, let's make the most of poetry and wine."
+Mi frecuencia de publicación se ha ralentizado mucho hoy en día, pero nunca he pensado en parar. Preservar mi voz interior es importante para mí. Para 2028, seguiré publicando un artículo para conmemorar veinte años de bloguear. ¿Qué perspectiva tendré entonces, al mirar atrás y ver las ganancias y pérdidas de esos veinte años? No hay manera de calcularlo. Pero en cualquier caso — "encendamos un fuego nuevo para probar el té nuevo; mientras dure la juventud, aprovechemos al máximo la poesía y el vino."

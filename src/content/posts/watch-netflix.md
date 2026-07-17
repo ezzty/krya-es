@@ -1,51 +1,51 @@
 ---
-title: A Technical Guide to Watching Netflix in China
+title: Guía técnica para ver Netflix en China
 pubDate: '2019-03-03'
 author: jin
 draft: false
 categories:
-  - Tech
+- Tecnología
 tags:
-  - Netflix in China
-  - Netflix on TV
+- Netflix en China
+- Netflix en TV
 ---
 
 ![0240703211733.png](https://i.190808.xyz/typecho/2024/07/03/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240703211733.png)
 
-If you're too busy to read all this, here's the recommended solution for watching Netflix: **VPS + streaming media unlock + Apple TV**. It saves you headaches and delivers an excellent experience. If you want to save money, keep reading.
+Si no tienes tiempo para leer todo esto, aquí va la solución recomendada para ver Netflix: **VPS + desbloqueo de streaming + Apple TV**. Te ahorras dolores de cabeza y la experiencia es excelente. Si quieres ahorrar dinero, sigue leyendo.
 
-Netflix is an American streaming video service that primarily offers movies, TV shows, documentaries, and more. Compared to Chinese video platforms like Tencent Video and iQiyi, Netflix has several incomparable advantages:
+Netflix es un servicio de streaming de vídeo estadounidense que ofrece principalmente películas, series, documentales y más. Comparado con plataformas chinas como Tencent Video e iQiyi, Netflix tiene varias ventajas incomparables:
 
-1. Netflix has tons of American TV shows and blockbuster movies, with new content released regularly. If no new shows are added, subscriptions drop — so keeping up the release rate is one of Netflix's biggest pressures. Netflix acquires content from all over the world, not just for Western audiences. For example, *Day and Night* and *The Wandering Earth* — even though there are no Chinese subscribers, Netflix still bought the global online distribution rights.
+1. Netflix tiene montones de series estadounidenses y películas taquilleras, con contenido nuevo publicado regularmente. Si no añaden series nuevas, las suscripciones bajan, así que mantener el ritmo de estrenos es una de las mayores presiones de Netflix. Adquiere contenido de todo el mundo, no solo para el público occidental. Por ejemplo, *Day and Night* y *The Wandering Earth* — aunque no haya suscriptores chinos, Netflix compró los derechos globales de distribución online.
 
-2. It offers up to 4K ultra-high-definition quality. If your broadband connection is decent, you can enjoy HD content without issues.
+2. Ofrece calidad de hasta 4K ultra alta definición. Si tu conexión de banda ancha es decente, puedes disfrutar de contenido HD sin problemas.
 
-3. Multi-language translations are available for global content — typically including Chinese, Japanese, Korean, English, Italian, Portuguese, Spanish, and French subtitles. Even if you're not Chinese, with some luck, certain foreign films even have Chinese dubbed audio.
+3. Hay traducciones multilingües para el contenido global — normalmente incluyen subtítulos en chino, japonés, coreano, inglés, italiano, portugués, español y francés. Incluso si no eres chino, con un poco de suerte, algunas películas extranjeras tienen hasta audio doblado al chino.
 
-4. No ads, and no video recommendations. Unlike iQiyi or Tencent Video in China, where even paid subscribers have to endure recommendation ads.
+4. Sin anuncios y sin recomendaciones de vídeo. Al contrario que iQiyi o Tencent Video en China, donde hasta los suscriptores de pago tienen que soportar anuncios de recomendación.
 
-**That's enough about the perks. So here's the real question: how can you watch Netflix on your computer in China? There's really only one way:**
+**Ya basta de ventajas. Así que la pregunta real es: ¿cómo puedes ver Netflix en tu ordenador en China? Solo hay una forma:**
 
-The most important tool for watching Netflix is a proxy service. However, due to Netflix's strict copyright restrictions, even if you can access the website from China, you still won't be able to watch any content. So a proxy alone isn't enough — you need an IP address that Netflix recognizes as valid. If you're building your own proxy, you'll have to try your luck across various VPS providers. Finding a usable IP is like searching for a needle in a haystack — it takes persistence and a bit of luck. There are lists of Netflix-compatible IPs online, and matching IP ranges can make the process much easier. But even then, nothing is guaranteed, since Netflix is constantly cracking down on leaked IPs.
+La herramienta más importante para ver Netflix es un servicio de proxy. Sin embargo, debido a las estrictas restricciones de copyright de Netflix, aunque puedas acceder al sitio web desde China, igual no podrás ver ningún contenido. Así que un proxy no basta — necesitas una dirección IP que Netflix reconozca como válida. Si montas tu propio proxy, tendrás que probar suerte con varios proveedores de VPS. Encontrar una IP utilizable es como buscar una aguja en un pajar: hace falta persistencia y un poco de suerte. Hay listas de IPs compatibles con Netflix online, y emparejar rangos de IP puede facilitar mucho el proceso. Pero incluso así, nada está garantizado, porque Netflix está constantemente bloqueando IPs filtradas.
 
-**If you really can't find a working IP, there are now streaming media unlock services that can be paired with any overseas VPS.** These services don't just unlock Netflix — they also unlock Disney+, HBO, and even ChatGPT, which can be a pain to access. From a time-cost perspective, this approach is well worth it.
+**Si de verdad no encuentras una IP que funcione, ahora hay servicios de desbloqueo de streaming que se pueden combinar con cualquier VPS en el extranjero.** Estos servicios no solo desbloquean Netflix, sino también Disney+, HBO e incluso ChatGPT, que puede ser un dolor de cabeza para acceder. Desde una perspectiva de coste de tiempo, este enfoque vale la pena.
 
-If building your own proxy seems too complicated, there's a hassle-free (but not cost-effective) option: simply subscribe to a proxy service that already supports Netflix.
+Si montar tu propio proxy te parece demasiado complicado, hay una opción sin complicaciones (pero no rentable): simplemente suscribirte a un servicio de proxy que ya sea compatible con Netflix.
 
-That covers the basics of watching Netflix on a computer.
+Eso cubre lo básico para ver Netflix en un ordenador.
 
-**To watch Netflix on your TV, you only need two things:**
+**Para ver Netflix en tu televisor, solo necesitas dos cosas:**
 
-1. A router that can run OpenWrt firmware with proxy software installed. I recommend buying the best router you can afford — whether a hardware router or a soft router. The more expensive the router, the easier it is to get good speed and stability. **Soft routers are especially recommended, as they can max out your bandwidth.**
+1. Un router que pueda ejecutar firmware OpenWrt con software proxy instalado. Recomiendo comprar el mejor router que puedas permitirte — ya sea un router físico o un soft router. Cuanto más caro sea el router, más fácil será conseguir buena velocidad y estabilidad. **Los soft routers son especialmente recomendables, ya que pueden exprimir al máximo tu ancho de banda.**
 
-2. A streaming box. Only Netflix-certified devices can run the app properly, so domestic Chinese set-top boxes are out of the question. My top recommendation is Apple TV — the user experience is fantastic. If you have a Sony TV with built-in Netflix, you can skip this step. Amazon Fire TV (all models), Xiaomi's international Mi Box, and Roku devices are also good choices. The Mi Box is particularly fun to tinker with. If you can't find it on Taobao, try overseas shopping.
+2. Un reproductor de streaming. Solo los dispositivos certificados por Netflix pueden ejecutar la aplicación correctamente, así que los descodificadores chinos domésticos no valen. Mi recomendación principal es Apple TV: la experiencia de usuario es fantástica. Si tienes un televisor Sony con Netflix integrado, puedes saltarte este paso. Amazon Fire TV (todos los modelos), el Mi Box internacional de Xiaomi y los dispositivos Roku también son buenas opciones. El Mi Box es especialmente divertido para trastear. Si no lo encuentras en Taobao, prueba con las compras en el extranjero.
 
-Once your proxy is set up and you can watch Netflix on your computer, watching on TV shouldn't be a problem either.
+Una vez que tengas el proxy configurado y puedas ver Netflix en el ordenador, verlo en la tele tampoco debería ser un problema.
 
-First, configure the proxy on your router and set the streaming box's IP to a mainland China whitelist mode. This is because Netflix uses a lot of servers, and your proxy can't guarantee all IPs will route through the proxy. If you hit a direct-connection IP, Netflix will tell you that you're outside the available region.
+Primero, configura el proxy en tu router y pon la IP del reproductor de streaming en modo de lista blanca para China continental. Esto es porque Netflix usa muchos servidores, y tu proxy no puede garantizar que todas las IPs pasen por él. Si te topas con una IP de conexión directa, Netflix te dirá que estás fuera de la región disponible.
 
-That's the right way to watch Netflix. But are you really willing to spend at least $8.99 a month on a subscription?
+Esa es la forma correcta de ver Netflix. Pero, ¿de verdad estás dispuesto a gastar al menos 8,99 $ al mes en una suscripción?
 
-**How to watch at the lowest cost?**
+**¿Cómo verlo al menor coste?**
 
-Netflix offers a $15.99/month family plan that supports up to 4 simultaneous users in 4K HD. So the most economical approach is, of course, sharing! There are plenty of groups on Telegram where people look for others to split the cost, solving the problem of individual subscriptions being too expensive.
+Netflix ofrece un plan familiar de 15,99 $/mes que admite hasta 4 usuarios simultáneos en 4K HD. Así que el enfoque más económico es, por supuesto, ¡compartir! Hay montones de grupos en Telegram donde la gente busca con quién dividir el coste, solucionando el problema de que las suscripciones individuales sean demasiado caras.
