@@ -1,5 +1,6 @@
 ---
 title: Actualizando el hardware de mi escritorio
+description: "Recientemente me he enganchado al Vibe coding, intentando ejecutar el modelo visual qwen2.5vl:3b en una tarjeta gráfica GTX 1650 de 4GB en un PC con Windows para reconocer objetos, y no esperaba que las imágenes de 720P..."
 pubDate: '2026-05-08'
 author: jin
 draft: false

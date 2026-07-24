@@ -1,5 +1,6 @@
 ---
 title: La inversión transfronteriza en bolsa recibe un duro golpe — me toca aguantar
+description: "Comprar acciones a través de bancos locales de Hong Kong no se ve afectado en absoluto. Esta política no impuso restricciones a la compra de acciones a través de canales bancarios. Por ejemplo, el Trade25 del HSBC, con una cuota mensual de 25 dólares de Hong Kong, ofrece un límite de operaciones gratuitas de 250,000 dólares de Hong Kong."
 pubDate: '2026-05-23'
 author: jin
 draft: false
