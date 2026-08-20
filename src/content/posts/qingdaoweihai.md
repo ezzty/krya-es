@@ -1,5 +1,5 @@
 ---
-title: "Viaje en coche por Qingdao y Weihai en las vacaciones de verano de 2026"
+title: "Viaje en coche por Qingdao y Weihai (2026)"
 description: "Este viaje parece una extensión del viaje a Luoyang de abril, cruzando Luoyang directamente hasta Qingdao en Shandong. Pasamos la mayor parte del tiempo en la playa, jugando en la arena, cavando en la arena; en más de 10 días, terminó rápidamente. Desde Chengdu, tomó 14 días, recorrido total de 4902 km. Qingdao me da la sensación de ser especialmente grande, con muchos sitios culturales, como si fuera la capital de facto de la provincia de Shandong, cargando muchas funciones; Weihai es una tranquila ciudad costera con una hermosa línea de costa, playas tranquilas, llenas de ricos paisajes naturales."
 pubDate: 2026-08-11
 heroImage: ""
