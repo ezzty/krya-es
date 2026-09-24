@@ -1,5 +1,5 @@
 ---
-title: Viaje por carretera de primavera a Luoyang
+title: "Viaje por carretera a Xi'an, Luoyang y Xiangyang (2026)"
 pubDate: '2026-04-08'
 author: jin
 draft: false

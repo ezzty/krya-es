@@ -1,5 +1,5 @@
 ---
-title: 'Viaje por carretera 2025: Vietnam, Guangxi y Yunnan'
+title: "🇻🇳 Viaje por carretera: Vietnam, Guangxi y Yunnan (2025)"
 pubDate: '2025-10-26'
 author: jin
 draft: false

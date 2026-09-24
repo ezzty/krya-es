@@ -1,5 +1,5 @@
 ---
-title: Mi hogar electrónico — Hong Kong
+title: "🇭🇰 Mi hogar electrónico — Hong Kong (2025)"
 pubDate: '2025-03-01'
 author: jin
 draft: false

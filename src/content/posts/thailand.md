@@ -1,5 +1,5 @@
 ---
-title: 'Crónica de Tailandia 2024: Demasiado felices para pensar en volver'
+title: "🇹🇭 Crónica de Tailandia: Demasiado felices para pensar en volver (2024)"
 pubDate: '2024-10-14'
 author: jin
 draft: false

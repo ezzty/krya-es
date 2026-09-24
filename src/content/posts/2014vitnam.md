@@ -1,5 +1,5 @@
 ---
-title: Crónica de Viaje a Vietnam 2014
+title: "🇻🇳 Crónica de Viaje a Vietnam 2014"
 pubDate: '2014-03-01'
 author: jin
 draft: false
