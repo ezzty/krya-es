@@ -81,6 +81,12 @@ También fuimos a Rongcheng. Pero por un problema en mi planificación del viaje
 
 Después de jugar en Qingdao y Weihai, ya llevábamos 10 días fuera; parece que solo el niño y yo estábamos con ganas de más, los demás estaban un poco hartos; así que planeamos la ruta de regreso. Originalmente mi primer plan era ir también a Lianyungang y la Montaña de las Flores y Frutas, luego a Xuzhou a ver. Considerando el ánimo de todos, no di más rodeos, solo pasé por Qufu, Kaifeng y Xuchang, luego por Ankang de vuelta a Chengdu. En el camino visitamos el Templo de Confucio en Qufu, el Jardín del Río Qingming en Kaifeng y Pangdonglai en Xuchang.
 
+En el camino de regreso pasamos por Qufu y paseamos por el Templo de Confucio; los precios de los pueblos pequeños son una maravilla. Por 200 yuanes pedimos una mesa llena de platos y cinco personas no lo terminamos. Por la mañana compramos en la carretera una torta de verduras de 8 yuanes — dos tortitas con mucha verdura en medio — y parecía muy saludable. También unos tomates cherry a 9,9 yuanes la bolsa, de unos dos o tres kilos, que no llegamos a terminar ni siquiera al llegar a Chengdu.
+
+![w950](https://i.190808.xyz/img/m/20260810/22faff.jpg?x-oss-process=style/w950)
+
+El Jardín del Río Qingming de Kaifeng lo visitamos de noche; había gente hasta en las esquinas, encaja con la esencia del cuadro de Zhang Zeduan. La iluminación y la escenografía estaban muy bonitas, y había muchas actuaciones; pero en cuanto la niña llegó a la zona de juegos infantiles ya no quiso moverse, y estuvimos allí acompañándola hasta el cierre; en resumen, los dos adultos gastamos unos cientos de yuanes para acompañar a la cría a pasarse allí la noche entera.
+
 ![w950](https://i.190808.xyz/img/m/20260810/1c26ed.jpg?x-oss-process=style/w950)
 
 ![w950](https://i.190808.xyz/img/m/20260810/7494e0.jpg?x-oss-process=style/w950)
@@ -89,4 +95,4 @@ Después de jugar en Qingdao y Weihai, ya llevábamos 10 días fuera; parece que
 
 ![w950](https://i.190808.xyz/img/m/20260810/2bef3f.jpg?x-oss-process=style/w950)
 
-![w950](https://i.190808.xyz/img/m/20260810/22faff.jpg?x-oss-process=style/w950)
+La ternera estofada de sabor original de Pangdonglai, ¡a compra ciegas! La vez anterior compré un trozo y nos lo comimos en medio día; esta vez compré dos, y para traerlos de Xuchang a Chengdu compré además una caja de espuma y bolsas de hielo, para que aguantaran frescos todo el camino. Los pasteles de Pangdonglai también están buenísimos, pero duran muy poco; lástima que no se puedan comprar por encargo.

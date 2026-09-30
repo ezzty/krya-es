@@ -170,4 +170,10 @@ Figura 8: Un tramo de carretera entre Xining y Zoigê
 
 **El viaje de regreso**
 
-De vuelta, pasado el Condado de Luqu, estaban los Nueve Recodos del Río Amarillo, el mar de flores de Zoigê y el Templo Langmu—nos los saltamos todos
+De vuelta, pasado el Condado de Luqu, estaban los Nueve Recodos del Río Amarillo, el mar de flores de Zoigê y el Templo Langmu; nos los saltamos todos. En un tramo del camino cayó una lluvia moderada y el cielo se despejó de golpe: un arcoíris cruzó la pradera de lado a lado. Bajé a hacer unas fotos, con el coche aparcado justo debajo del arcoíris. Por encima de él, las nubes se apiñaban como una bestia enorme que se abalanzaba rodando. Zoigê es un pequeño condado sin gran cosa que contar; el caldo de yak estaba tan bueno como el de Chengdu. Al día siguiente salimos a las 10 de la mañana y llegamos a Chengdu a las 8 de la tarde. Fin del viaje.
+![Por favor, introduce la descripción de la imagen](https://i.190808.xyz/bim2019/10/09/838022957973768.jpg)
+Figura 9: Nubes amontonadas cerca de los Nueve Recodos del Río Amarillo
+
+Hay que reconocerlo: a lo largo de todo el camino, el mejor paisaje ha sido el propio camino. La grandeza del agua, el vértigo de las montañas, la profundidad del cielo, la inmensidad de la pradera; el impacto de los cielos cubiertos de nubes y, cuando el ánimo caía, esa sensación de perro perdido—todo lo sentí, uno por uno.
+
+*Zen y el arte del mantenimiento de la motocicleta* dice que viajar en coche no es la mejor forma de hacer una ruta: tras los cristales cerrados no se siente ni el viento ni la lluvia ni la temperatura. Espero que dentro de muchos años pueda recorrer el lago Qinghai de nuevo, en motocicleta.
