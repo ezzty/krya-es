@@ -11,7 +11,7 @@ tags:
 - Viaje a Xishuangbanna
 ---
 
-![ddf-1.avif](https://user0102.cn.imgto.link/public/20260422/ddf-1.avif)
+![ddf-1.avif](https://i.190808.xyz/img/m/20260608/974ffb.jpg)
 
 Agosto en Chengdu era un infierno de calor: el suelo parecía ondularse por la temperatura, y estar al aire libre no se diferenciaba de una práctica ascética. Así que, después de que mi hija terminara el jardín de infancia, se pasaba el día encerrada en casa. Cada vez que se aburría por completo, siempre me preguntaba: "Papá, ¿qué más puedo hacer?"
 
@@ -38,7 +38,7 @@ Los días siguientes nos quedamos en la ciudad de Dongxing. Ya estábamos en la 
 
 Al entrar en un país nuevo, pensé que la niña sentiría al menos un poco de curiosidad por explorar. Pero después de diez minutos de City Walk por Mong Cai, se aburrió y preguntó cuándo volvíamos a Dongxing: quería jugar en la playa. Así que, para este breve itinerario por Mong Cai, intenté rápidamente grabar en ella la imagen de Vietnam: las omnipresentes banderas rojas de una sola estrella, las casas altas y estrechas, los murales de colores vivos en las paredes, las calles atestadas de motos ensordecedoras, el café vietnamita de filtro, los sombreros cónicos, e incluso cangrejos herradura chinos (una especie protegida en China) siendo sacrificados en el mercado.
 
-![7-31.jpg](https://images.190808.xyz/typecho/2025/10/25/7-31.jpg)
+![7-31.jpg](https://i.190808.xyz/typecho/2025/10/25/7-31.jpg)
 
 Al mediodía regresamos a Dongxing y condujimos hasta Wanwei Golden Beach. Justo cuando llegamos, se estaba poniendo el sol. La playa dorada bañada por el resplandor cumplió todas nuestras expectativas del mar. Las olas lamían la orilla extraordinariamente larga, los motores de los barcos pesqueros rugían perezosamente de vuelta al puerto, y la puesta de sol lejana arrojaba deslumbrantes bordes dorados a través de las nubes oscuras en el horizonte. Era tan hermoso que decidimos quedarnos en Golden Beach.
 

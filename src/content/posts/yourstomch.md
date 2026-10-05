@@ -9,7 +9,7 @@ tags:
 - Niño pobre
 ---
 
-![ms-1.avif](https://user0102.cn.imgto.link/public/20260422/ms-1.avif)
+![ms-1.avif](https://i.190808.xyz/img/m/20260714/5b01cd.jpg)
 
 **01. Los cimientos alimenticios que la riqueza no puede ocultar**
 

@@ -18,7 +18,7 @@ Los viajes por carretera tienen una única ventaja real frente al tren: la liber
 
 Durante los últimos años, nuestros viajes se habían limitado a zonas al sur de Sichuan. Lo más al norte que habíamos estado era Xi'an — no habíamos explorado realmente otras partes del norte. Así que siempre había querido experimentar la vasta Llanura del Norte de China y empaparme del ambiente norteño.
 
-![5.avif](https://user0102.cn.imgto.link/public/20260422/5-1.avif)
+![5.avif](https://i.190808.xyz/img/m/20260608/68c6b7.png)
 ![4.jpg](https://i.190808.xyz/typecho/2026/04/07/4.jpg)
 
 > 📷 Guerreros de Terracota de Qin Shi Huang

@@ -61,7 +61,7 @@ El cine mainstream necesita entretenimiento. Aunque esta película toma prestada
 
 8. *En busca de la felicidad*
 
-[![](https://images.190808.xyz/bim2019/10/09/215603935220704.jpg?x-oss-process=style/826px)](https://movie.douban.com/subject/1849031/)
+[![](https://i.190808.xyz/bim2019/10/09/215603935220704.jpg)](https://movie.douban.com/subject/1849031/)
 
 Una película discreta sobre la felicidad, protagonizada por Will Smith junto a su hijo en la vida real.
 

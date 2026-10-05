@@ -11,7 +11,7 @@ tags:
 - Pagos Stripe
 ---
 
-![homepage.avif](https://user0102.cn.imgto.link/public/20260422/homepage.avif)
+![homepage.avif](https://i.190808.xyz/img/m/20260608/e1a749.webp)
 
 Si estás desarrollando aplicaciones para mercados internacionales, sitios web de herramientas o servicios por suscripción y necesitas cobrar pagos a nivel global, antes solíamos recurrir a PayPal, Wise, WorldFirst y similares. Pero hoy en día, la opción más sencilla y versátil para múltiples escenarios es probablemente Stripe. Fundada en Estados Unidos, esta plataforma de pagos integrada atiende a desarrolladores y comerciantes de todo el mundo, aceptando tarjetas de crédito internacionales como Visa y Mastercard, además de Apple Pay. Ofrece comisiones de retiro transparentes y admite tanto integración por API como enlaces de pago. Aunque no se puede registrar desde China continental, tener una cuenta bancaria en Hong Kong lo hace muy sencillo. Yo mismo probé registrar una cuenta Individual usando un pasaporte chino continental y una tarjeta de ZA Bank (Hong Kong) — todo funcionó sin problemas.
 

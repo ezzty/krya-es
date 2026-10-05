@@ -20,7 +20,7 @@ Para solucionarlo, me construí una página «caja de herramientas» que reúne 
 
 La historia empieza con un servicio de alojamiento de imágenes.
 
-![948.avif](https://user0102.cn.imgto.link/public/20260429/948.avif)
+![948.avif](https://i.190808.xyz/img/m/20260608/bd7522.png)
 
 ### Empezando con el alojamiento de imágenes
 

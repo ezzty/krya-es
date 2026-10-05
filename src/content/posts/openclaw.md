@@ -11,7 +11,7 @@ tags:
 - Habilidades de OpenClaw
 ---
 
-![openclaw-banner.avif](https://user0102.cn.imgto.link/public/20260422/openclaw-banner.avif)
+![openclaw-banner.avif](https://i.190808.xyz/img/m/20260608/cb8b91.jpg)
 
 Como alguien que trabaja en el comercio electrónico tradicional B2C, no soy programador profesional ni tengo experiencia en código. Antes de esto, mi conocimiento sobre IA se limitaba a "altavoces inteligentes" y "asistentes de voz del móvil". Pero como entusiasta de la tecnología, enterarme de OpenClaw, que está tan de moda, naturalmente me dio ganas de probarlo.
 
