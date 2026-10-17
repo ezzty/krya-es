@@ -11,7 +11,7 @@ tags:
   - Alojamiento de imágenes con cloud function FC
 author: jin
 ---
-![image](https://i.190808.xyz/m/26j13/0f38e9.png)
+![image](https://i.190808.xyz/m/26j16/869bc3.jpg)
 
 > Código fuente: https://github.com/ezzty/oss-upload
 
