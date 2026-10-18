@@ -1,6 +1,6 @@
 ---
 title: "Montar mi propio alojamiento de imágenes de bajo coste con Function Compute de Aliyun + OSS"
-description: "Todo blog estático necesita un alojamiento de imágenes de terceros; pero ¿cuál de ellos no desaparece? Difícil de saber. Además, si usas el de otro: las reglas antirrobo no las controlas tú, si el servicio cierra las imágenes acaban en 404, la moderación de contenido te bloquea por error y la cuota gratuita tiene trampas. Después de tropezar con muchos problemas, decidí montarme el mío con un coste de uso bajísimo. El objetivo principal es ahorrar dinero, ¡sin límites!"
+description: "Muchos planes de alojamiento de imágenes autoalojado exigen un servidor propio: decenas de yuanes al mes de alquiler y encima te toca parchearlo a mano; o solo funcionan en un cliente local, así que si cambias de equipo ya no puedes subir nada. Al final decidí montarme una solución serverless en la nube, para subir imágenes cuando quieras y desde donde quieras. Aliyun Function Compute FC + OSS: FC de pago por uso (con poco tráfico ≈ 0 yuanes), sin base de datos y sin mantenimiento, con paquetes de despliegue de solo 6 KB. Con subidas poco frecuentes el gasto es casi cero; con el dominio propio `*.fcapp.run` que viene incluido te ahorras hasta el registro ICP, y si prefieres un dominio propio solo tienes que vincularlo."
 pubDate: 2026-10-14
 heroImage: ""
 categories:
@@ -13,27 +13,37 @@ author: jin
 ---
 ![image](https://i.190808.xyz/m/26j16/869bc3.jpg)
 
-> Código fuente: https://github.com/ezzty/oss-upload
-
 **Tres cosas antes de empezar:**
 
-1. Todos los `AccessKey`, contraseñas, dominios y nombres de bucket de este artículo son **marcadores de posición**; reemplázalos por los tuyos antes de copiar nada.
-2. El código es un único archivo Node.js (unas 380 líneas), las dependencias se inyectan mediante una **capa (Layer)** de FC, el código de negocio no tiene ningún valor hardcodeado y toda la configuración va por variables de entorno.
-3. Al terminar este artículo tendrás el flujo completo de `login → obtener token → subir → devolver la sintaxis de imagen en Markdown`, más una lista de verificación ejecutable antes de ponerlo en producción.
+1. Este alojamiento de imágenes es sencillo, fácil de configurar y suficientemente seguro; si se te queda corto, pásale el código fuente a una IA y podrás añadir o quitar funciones sin problema.
+2. Todos los `AccessKey`, contraseñas, dominios y nombres de bucket de este artículo son marcadores de posición; reemplázalos por los tuyos antes de copiar nada.
+3. El código es un único archivo Node.js (unas 380 líneas), las dependencias se inyectan mediante una capa (Layer) de FC, el código de negocio no tiene ningún valor hardcodeado y toda la configuración va por **variables de entorno**.
+
+> Código fuente: https://github.com/ezzty/oss-upload
 
 ---
 
 ### 1. Por qué montar tu propio alojamiento de imágenes
 
-Todo blog estático necesita un alojamiento de imágenes de terceros; pero ¿cuál de ellos no desaparece? Difícil de saber. Además, si usas el de otro: las reglas antirrobo no las controlas tú, si el servicio cierra las imágenes acaban en 404, la moderación de contenido te bloquea por error y la cuota gratuita tiene trampas.
+Casi todo blog estático necesita un alojamiento de imágenes. Muchos se ahorran dinero usando el "gratis para siempre" de otro; pero ¿qué gran benefactor nunca cierra? Además, los datos están en manos de otro y tú sin ningún margen de maniobra, así que uno acaba siempre con la mosca tras la oreja.
 
-Después de tropezar con muchos problemas, decidí montarme el mío con un coste de uso bajísimo. El objetivo principal es ahorrar dinero, ¡sin límites!
+Después de tropezar con muchos problemas, decidí montarme el mío con un coste mínimo: ahorrar dinero, sin límite de capacidad y con garantías de seguridad.
 
-- **Los datos están en tu propia cuenta**, puedes exportarlos y migrarlos cuando quieras
-- **La facturación es por uso**, el consumo de un alojamiento personal casi siempre queda en el borde de la cuota gratuita
-- **La política de seguridad la pones tú**: quién puede subir, cuánto pesa, en qué directorio se guarda y quién puede verlo, todo bajo tu control
+Muchos planes de autoalojamiento exigen un servidor propio (decenas de yuanes al mes de alquiler y encima parchearlo a mano) o solo funcionan en un cliente local, de modo que si cambias de equipo ya no puedes subir nada; al final decidí hacer una solución serverless en la nube para subir cuando quieras y desde donde quieras.
 
-La contrapartida es que te toca encargarte tú de la autenticación, la protección contra fuerza bruta y la validación de tipos de archivo — este artículo ya lo ha hecho por ti.
+**Aliyun Function Compute FC + OSS + CDN**
+
+FC de pago por uso (con poco tráfico ≈ 0 yuanes), sin base de datos y sin mantenimiento, con paquetes de despliegue de solo 6 KB. Con subidas poco frecuentes el gasto es casi cero.
+
+El almacenamiento de imágenes en OSS también es por uso: decenas de GB de imágenes al mes se quedan en unos pocos yuanes.
+
+Y con CDN por delante, ¡las imágenes cargan a toda velocidad!
+
+Aunque un alojamiento personal no tiene mucho valor como objetivo de ataque, igualmente he añadido varias capas de seguridad: PoW obligatorio contra fuerza bruta, validación de magic bytes contra archivos disfrazados, triple validación de tamaño contra inundaciones, cuota diaria contra abusos y token con 2 horas de vigencia contra usos indebidos.
+
+Este esquema tampoco carece de defectos: sin multiusuario, sin gestión de álbumes, sin estadísticas de uso; para borrar una imagen ni siquiera hay interfaz propia, hay que entrar en la consola de OSS.
+
+Pero es pequeño, cuesta poco y para uso personal sobra de sobra.
 
 ---
 
@@ -116,21 +126,6 @@ Nombre de la política: `ImageHostSingleBucket`. Después:
 - **No** damos `oss:CopyObject` — el alojamiento de imágenes no necesita permisos de copia; damos lo mínimo posible
 - **No** vincules `AliyunOSSFullAccess` — eso permitiría al AK de tu alojamiento leer todos tus buckets de datos
 
-#### 3.4 Disciplina en el almacenamiento de credenciales
-
-- ❌ No las escribas en el código, no las subas a Git
-- ✅ Solo van en las variables de entorno de FC
-- El `.gitignore` de la raíz del repositorio debe incluir al menos:
-
-```
-.env
-.env.local
-*.key
-*.pem
-*.p12
-credentials.json
-```
-
 ---
 
 ### 4. Preparar la capa de dependencias (Layer)
@@ -208,9 +203,7 @@ zip code.zip index.js package.json
 
 #### 5.3 Variables de entorno (8 obligatorias, sin una sola no arranca)
 
-Al principio el código las comprueba una a una; si falta alguna hace `process.exit(1)` directamente, la función devuelve 500 y en los logs aparece `❌ FATAL: Missing required environment variable: X`.
-
-**Las 8 obligatorias** (en el código, `requiredEnvVars` son exactamente estas 8):
+La función tiene 8 variables de entorno obligatorias; configúralas según la imagen:
 
 - **`AUTH_USER`** `admin` — usuario de inicio de sesión
 - **`AUTH_PASS`** `<configura una contraseña fuerte>` — contraseña de inicio de sesión; usa una cadena aleatoria larga
@@ -226,15 +219,6 @@ Al principio el código las comprueba una a una; si falta alguna hace `process.e
 - **`ALLOWED_ORIGINS`** `example.com,myblog.net` — orígenes permitidos para CORS, separados por comas. Sin definirlo también arranca; **solo interviene cuando el CORS a nivel de código está activado** (por defecto el CORS lo gestiona la plataforma devolviendo el `Origin`, así que `isValidOrigin` ni se llega a llamar). Si activas el CORS a nivel de código sí que hace falta definirlo, porque si no el valor por defecto `example.com` bloquearía todas las subidas desde el navegador.
 
 ![image](https://i.190808.xyz/m/26j13/f09581.png)
-
-Para generar valores aleatorios:
-
-```bash
-openssl rand -base64 32   # JWT_SECRET
-openssl rand -base64 24   # AUTH_PASS
-```
-
-> `CDN_DOMAIN` debe empezar por `http://` o `https://` — el código tiene una validación específica para eso; si olvidas el prefijo de protocolo, el arranque se aborta.
 
 #### 5.4 Vincular el dominio personalizado
 
@@ -269,19 +253,7 @@ Ese es el flujo completo para tener en marcha tu propio alojamiento de imágenes
 
 **https://github.com/ezzty/oss-upload** → las secciones "🧩 Implementación clave (a nivel de código)" y "🧪 Verificación de puesta en producción" del `README.md`
 
-Ahí hay cosas que aquí no se desarrollan:
-
-- **Estructura del token y cuatro puntos de seguridad** (firma HMAC, comparación en tiempo constante, los límites de la protección contra replay)
-- **Tabla de referencia de magic bytes** (bytes de cabecera de JPEG / PNG / GIF / WebP / BMP)
-- **Triple validación de tamaño**, límite de 4 KB para el body de login, y por qué la protección anti fuerza bruta por IP debe usar un `Map` (pruebas con `X-Forwarded-For: __proto__` y contaminación de prototipos)
-- **Compatibilidad con el formato de eventos de FC y decodificación del body** (con dos trampas grandes: decodificación perezosa y binarios sin codificar que no se deben decodificar como UTF-8)
-- **Cómo envía el frontend** (iOS Safari pierde el body de `xhr.send(File)`; hay que usar ArrayBuffer)
-- **Disparador HTTP y las tres formas de CORS** (incluida una aclaración: en la consola de FC no existe ninguna casilla de "permitir peticiones cruzadas")
-- **Procesamiento de imágenes en OSS** (de 1,89 MB a 81 KB medido en pruebas, un ahorro del 96%)
-- **Lista de verificación completa de puesta en producción** (comandos de sondeo + script de verificación en OSS + checklist de seguridad)
-- **Tabla rápida de problemas frecuentes** (síntoma → causa → solución; también los casos difíciles como cuerpos perdidos en iOS o falsos positivos de magic bytes)
-
-> En el cuerpo del blog solo quería explicar bien el "porqué de montarlo tú, cómo ponerlo en marcha y qué tener en cuenta"; si de verdad vas a desplegarlo, el README es la documentación técnica completa.
+En el cuerpo del blog solo he querido explicar el porqué de montarlo tú, cómo ponerlo en marcha y qué tener en cuenta; cuando de verdad vayas a desplegarlo, el README es la documentación técnica completa.
 
 ---
 
@@ -294,7 +266,7 @@ Pago por uso, en tres bloques:
 | **Cálculo de FC** | CU de cálculo (vCPU + memoria × duración) + número de invocaciones | Hay cuota gratuita; un alojamiento personal suele moverse cerca de ese límite |
 | **Almacenamiento en OSS** | yuanes/GB/mes | Almacenamiento estándar unos **0,09~0,12 yuanes/GB/mes** |
 | **Peticiones a OSS** | Por petición | Muy bajo, se puede ignorar |
-| **Tráfico** | Yuanes/GB | Ver abajo |
+| **Tráfico CDN** | Yuanes/GB | Ver abajo |
 
 **El tráfico es la partida grande de la factura, y también la más fácil de optimizar:**
 
